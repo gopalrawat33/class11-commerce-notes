@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#1d4ed8">
+  <meta name="description" content="Class 11 Maharashtra Board Commerce notes">
+  <link rel="manifest" href="manifest.json">
+  <title>Class 11 Commerce Notes</title>
+  <style>
+    :root{font-family:system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#172033;background:#f4f7fb}
+    *{box-sizing:border-box}body{margin:0}header{background:#1d4ed8;color:#fff;padding:22px max(18px,calc((100% - 980px)/2));}
+    header h1{font-size:clamp(1.35rem,4vw,2rem);margin:0 0 5px}header p{margin:0;opacity:.9}
+    main{max-width:980px;margin:auto;padding:18px}input{width:100%;font:inherit;padding:13px 14px;border:1px solid #cbd5e1;border-radius:12px;margin:8px 0 16px;background:#fff}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,240px),1fr));gap:12px}
+    button,.card{font:inherit;text-align:left;border:1px solid #dbe3ef;background:#fff;border-radius:14px;padding:16px;cursor:pointer;color:inherit}
+    button:hover{border-color:#1d4ed8}.card strong{display:block;font-size:1.02rem}.card small{display:block;color:#64748b;margin-top:6px}
+    .muted{color:#64748b}.hidden{display:none}.back{margin:0 0 12px;background:#e8efff;border:0;color:#1d4ed8;padding:10px 13px;border-radius:10px}
+    .note{background:#fff;border:1px solid #dbe3ef;border-radius:14px;padding:18px;line-height:1.65;white-space:pre-wrap}
+    footer{max-width:980px;margin:0 auto;padding:8px 18px 30px;color:#64748b;font-size:.9rem}
+    a{color:#1d4ed8} .status{font-size:.9rem;margin:4px 0 14px}
+  </style>
+</head>
+<body>
+<header>
+  <h1>📚 Class 11 Commerce Notes</h1>
+  <p>Maharashtra State Board • Works across phones, tablets and computers</p>
+</header>
+<main>
+  <div id="status" class="status muted">Loading notes…</div>
+  <section id="home">
+    <label for="search"><strong>Search subjects or chapters</strong></label>
+    <input id="search" type="search" placeholder="Type BKA, OCM, SP, Economics…">
+    <div id="subjects" class="grid"></div>
+  </section>
+  <section id="chapters" class="hidden">
+    <button class="back" id="backHome">← All subjects</button>
+    <h2 id="subjectTitle"></h2>
+    <div id="chapterList" class="grid"></div>
+  </section>
+  <section id="reader" class="hidden">
+    <button class="back" id="backChapters">← Chapters</button>
+    <h2 id="noteTitle"></h2>
+    <p id="noteSubject" class="muted"></p>
+    <article id="noteBody" class="note"></article>
+  </section>
+</main>
+<footer>
+  This is a starter version. The bundled file contains sample/template notes, not all textbook lessons yet.
+  Verify lesson names and exam answers against your current Balbharati textbook. Once hosted, the app can fetch updated notes from the internet.
+</footer>
+<script>
+const NOTES_URL = "./notes.json"; // Replace with a public HTTPS JSON URL to update notes online.
+let data = {subjects:[]}, activeSubject = null;
+const $ = id => document.getElementById(id);
+function show(section){["home","chapters","reader"].forEach(id=>$(id).classList.toggle("hidden",id!==section));}
+function safeText(s){return String(s ?? "");}
+function renderSubjects(query=""){
+  const q=query.toLowerCase().trim(), host=$("subjects"); host.innerHTML="";
+  data.subjects.forEach(subject=>{
+    const chapters=subject.chapters||[];
+    const matches=subject.name.toLowerCase().includes(q)||chapters.some(c=>c.title.toLowerCase().includes(q));
+    if(q && !matches)return;
+    const b=document.createElement("button"); b.className="card";
+    const strong=document.createElement("strong"); strong.textContent=subject.name;
+    const small=document.createElement("small"); small.textContent=chapters.length+" topic(s) currently included";
+    b.append(strong,small); b.onclick=()=>openSubject(subject); host.append(b);
+  });
+  if(!host.children.length)host.textContent="No matching subject or chapter found.";
+}
+function openSubject(subject){
+  activeSubject=subject; $("subjectTitle").textContent=subject.name;
+  const host=$("chapterList"); host.innerHTML="";
+  (subject.chapters||[]).forEach(ch=>{
+    const b=document.createElement("button"); b.className="card"; b.textContent=ch.title;
+    b.onclick=()=>openNote(ch); host.append(b);
+  });
+  if(!host.children.length)host.textContent="Notes for this subject have not been added yet.";
+  show("chapters");
+}
+function openNote(ch){
+  $("noteTitle").textContent=ch.title; $("noteSubject").textContent=activeSubject.name;
+  $("noteBody").textContent=ch.notes||"Notes not available yet."; show("reader");
+}
+$("search").addEventListener("input",e=>renderSubjects(e.target.value));
+$("backHome").onclick=()=>show("home");
+$("backChapters").onclick=()=>show("chapters");
+async function init(){
+  try{
+    const response=await fetch(NOTES_URL,{cache:"no-cache"});
+    if(!response.ok)throw new Error("HTTP "+response.status);
+    data=await response.json();
+    if(!Array.isArray(data.subjects))throw new Error("Invalid notes JSON");
+    $("status").textContent="Notes loaded from online JSON source.";
+  }catch(e){
+    $("status").textContent="Could not load online notes. If opened as a local file, host this folder on HTTPS first.";
+    // Local bundled fallback lets the UI show demo notes while hosting is configured.
+    try{
+      const fallback=await fetch("./notes-fallback.json");
+      data=await fallback.json();
+    }catch(_){data={subjects:[]};}
+  }
+  renderSubjects();
+}
+if("serviceWorker" in navigator && location.protocol.startsWith("http")) {
+  window.addEventListener("load",()=>navigator.serviceWorker.register("./sw.js").catch(()=>{}));
+}
+init();
+</script>
+</body>
+</html>

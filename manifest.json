@@ -1,0 +1,9 @@
+{
+  "name": "Class 11 Commerce Notes",
+  "short_name": "Commerce Notes",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#1d4ed8",
+  "description": "Class 11 Maharashtra Board Commerce notes"
+}

@@ -1,0 +1,58 @@
+{
+  "subjects": [
+    {
+      "name": "Book Keeping & Accountancy (BKA)",
+      "chapters": [
+        {
+          "title": "1. Introduction to Book-Keeping and Accountancy",
+          "notes": "Book-keeping is the systematic recording of financial transactions. Accountancy also includes classifying, summarising, analysing and interpreting financial information.\n\nKey terms:\n• Capital: amount invested by owner.\n• Drawings: cash or goods taken by owner for personal use.\n• Assets: resources owned or controlled by a business.\n• Liabilities: amounts payable by the business.\n• Debtor: a person who owes money to the business.\n• Creditor: a person to whom the business owes money.\n\nSample starter note only. Verify with the current Balbharati textbook."
+        }
+      ]
+    },
+    {
+      "name": "Organisation of Commerce & Management (OCM)",
+      "chapters": [
+        {
+          "title": "1. Introduction to Commerce and Business",
+          "notes": "Commerce includes trade and aids to trade. Trade means buying and selling goods or services. Aids to trade include transport, banking, insurance, warehousing, advertising and communication.\n\nBusiness objectives may be economic (profit, growth, innovation) and social (quality goods, fair prices, employment and environmental responsibility).\n\nSample starter note only. Verify with the current Balbharati textbook."
+        }
+      ]
+    },
+    {
+      "name": "Secretarial Practice (SP)",
+      "chapters": [
+        {
+          "title": "1. Introduction to Secretarial Practice",
+          "notes": "Secretarial practice includes communication, record keeping, meeting support and administrative procedures. Useful qualities include accuracy, confidentiality, punctuality, organisation and communication skills.\n\nSample starter note only. Verify with the current Balbharati textbook."
+        }
+      ]
+    },
+    {
+      "name": "Economics (ECO)",
+      "chapters": [
+        {
+          "title": "1. Basic Concepts in Economics",
+          "notes": "Economics studies how people and society use limited resources to satisfy wants. Scarcity leads to choice. Opportunity cost is the next-best alternative given up when a choice is made.\n\nMicroeconomics studies individual consumers, firms and markets. Macroeconomics studies the economy as a whole.\n\nSample starter note only. Verify with the current Balbharati textbook."
+        }
+      ]
+    },
+    {
+      "name": "English Yuvakbharati",
+      "chapters": [
+        {
+          "title": "Lesson notes template",
+          "notes": "For each prose lesson, add its central idea, characters, events, message, vocabulary and textbook answers. For poetry, add theme, mood, imagery, figures of speech and message. This is a template, not a lesson-specific summary."
+        }
+      ]
+    },
+    {
+      "name": "Information Technology (IT)",
+      "chapters": [
+        {
+          "title": "Digital basics template",
+          "notes": "Add chapter summary, definitions, practical steps and textbook exercises here. This is a template, not a verified chapter summary."
+        }
+      ]
+    }
+  ]
+}
