@@ -2,8 +2,21 @@
   "name": "Class 11 Commerce Notes",
   "short_name": "Commerce Notes",
   "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#f4f7fb",
   "theme_color": "#1d4ed8",
-  "description": "Class 11 Maharashtra Board Commerce notes"
+  "description": "Class 11 Maharashtra Board Commerce Notes",
+  "icons": [
+    {
+      "src": "./commerce-notes-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./commerce-notes-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
