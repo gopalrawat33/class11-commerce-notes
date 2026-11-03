@@ -1,334 +1,51 @@
 {
+  "academic_year": "2026-27",
+  "board": "Maharashtra State Board",
+  "standard": "11",
+  "stream": "Commerce",
   "subjects": [
-    {
-      "name": "English — Yuvakbharati",
-      "chapters": [
-        {
-          "title": "Being Neighborly — Louisa May Alcott",
-          "notes": "Draft study guide: Revise the plot, main characters, neighbourly kindness, helpfulness and the lesson about building good relationships. Add a detailed paragraph-wise summary, character sketches and textbook-based questions after checking the prescribed text."
-        },
-        {
-          "title": "On to the Summit: We Reach the Top — Tenzing Norgay",
-          "notes": "Draft study guide: Focus on determination, teamwork, preparation, courage and the sequence of events during the expedition. Add a detailed summary, important incidents and comprehension questions from the prescribed text."
-        },
-        {
-          "title": "The Call of the Soil — Venkat Iyer",
-          "notes": "Draft study guide: Study the writer’s connection with farming and soil, sustainable agriculture and respect for nature. Add a detailed summary, key terms, author’s viewpoint and text-based questions."
-        },
-        {
-          "title": "Pillars of Democracy — Dr. Babasaheb Ambedkar",
-          "notes": "Draft study guide: Revise democracy, equality, liberty, fraternity, justice, constitutional values and responsible citizenship. Add the author’s argument, key points and text-based questions."
-        },
-        {
-          "title": "Mrs. Adis — Sheila Kaye-Smith",
-          "notes": "Draft study guide: Prepare the plot, character sketch of Mrs. Adis, important incidents, conflict and central idea. Verify details against the textbook before writing final answers."
-        },
-        {
-          "title": "Tiger Hills — General Ved Prakash Malik",
-          "notes": "Draft study guide: Study the Kargil conflict as presented in the lesson, soldiers’ role, leadership, courage and national responsibility. Add a chronological summary and text-based questions."
-        },
-        {
-          "title": "Cherry Tree — Ruskin Bond",
-          "notes": "Poem study guide: Prepare the speaker/subject, growth and renewal, nature imagery and central idea. Poem appreciation should include title, poet, rhyme scheme, figures of speech, theme, favourite line and personal response; verify the rhyme scheme from the printed poem."
-        },
-        {
-          "title": "The Sower — Victor Hugo",
-          "notes": "Poem study guide: Focus on the sower’s hard work, hope and dignity of labour. Prepare a stanza-wise explanation and appreciation with title, poet, rhyme scheme, figures of speech and central idea."
-        },
-        {
-          "title": "There is Another Sky — Emily Dickinson",
-          "notes": "Poem study guide: Study the hopeful view of nature and the mind, imagery and contrast. Prepare stanza-wise explanation and complete poem appreciation."
-        },
-        {
-          "title": "Upon Westminster Bridge — William Wordsworth",
-          "notes": "Poem study guide: Revise the speaker’s admiration of London at dawn, calm cityscape, imagery and personification. Prepare a stanza-wise explanation and complete appreciation."
-        },
-        {
-          "title": "Nose versus Eyes — William Cowper",
-          "notes": "Poem study guide: Understand the humorous dispute, personification and message about cooperation. Revise the situation, speakers, humour and moral."
-        },
-        {
-          "title": "The Planners — Boey Kim Cheng",
-          "notes": "Poem study guide: Study urban development, loss of history and individuality, imagery, contrast and the speaker’s attitude. Prepare a complete appreciation."
-        },
-        {
-          "title": "Expansion of Ideas",
-          "notes": "Writing skill: Introduce the given thought, explain its meaning, develop it with logical points and examples, and conclude with a clear message. Maintain unity, coherence and correct grammar."
-        },
-        {
-          "title": "Blog Writing",
-          "notes": "Writing skill: Use a suitable title, engaging introduction, organised paragraphs and a conclusion. Keep the tone appropriate to the audience and proofread language and facts."
-        },
-        {
-          "title": "E-mails",
-          "notes": "Writing skill: Practise formal and informal email conventions as prescribed: recipient, subject, salutation, concise body, closing and name. Use a clear subject and polite tone."
-        },
-        {
-          "title": "Interview",
-          "notes": "Writing skill: Prepare a short introduction and relevant questions in a logical order. Use clear question-answer formatting and respectful language."
-        },
-        {
-          "title": "Film Review",
-          "notes": "Writing skill: Include film title, director, cast, genre, brief spoiler-free plot, acting, direction, music and a reasoned overall opinion."
-        },
-        {
-          "title": "The Art of Compering",
-          "notes": "Writing skill: Practise opening an event, welcoming guests, introducing programme items and speakers, linking segments, giving acknowledgements and closing."
-        },
-        {
-          "title": "History of English Drama",
-          "notes": "Drama: Revise the origin and development of English drama, major periods, playwrights and features of tragedy, comedy and other dramatic forms."
-        },
-        {
-          "title": "The Rising of the Moon — Lady Gregory",
-          "notes": "Drama: Prepare the setting, plot, characters, conflict, dramatic tension and theme. Use the prescribed text for exact events and dialogue."
-        },
-        {
-          "title": "A Midsummer Night’s Dream — William Shakespeare",
-          "notes": "Drama extract: Study the prescribed extract, characters, relationships, mistaken identities and comic elements. Restrict answers to events in the assigned extract."
-        },
-        {
-          "title": "An Enemy of the People — Henrik Johan Ibsen",
-          "notes": "Drama extract: Study the prescribed extract’s conflict between truth, public opinion and social responsibility. Revise character motives and dramatic tension."
-        },
-        {
-          "title": "English Grammar",
-          "notes": "Grammar study guide: Build from parts of speech, sentence structure, articles, prepositions and tenses to subject–verb agreement, clauses, active/passive voice, direct/indirect speech, transformations and punctuation. Add rules, examples and original practice exercises for each topic."
-        }
-      ]
-    },
-    {
-      "name": "Hindi — Yuvakbharati",
-      "chapters": [
-        {
-          "title": "प्रेरणा",
-          "notes": "अध्ययन मार्गदर्शिका: पाठ का सार, मुख्य भाव, प्रेरणा देने वाले विचार और पाठ से मिलने वाली सीख समझें। लेखक/कवि परिचय तथा पाठ्यपुस्तक-आधारित प्रश्न तैयार करें।"
-        },
-        {
-          "title": "लघुकथाएँ — उषा की दीपावली और मुस्कुराती चोट",
-          "notes": "दोनों लघुकथाओं की कथावस्तु, पात्र, घटनाक्रम और संदेश अलग-अलग समझें। तुलना करते समय दोनों कहानियों की विशेषताएँ लिखें।"
-        },
-        {
-          "title": "पंद्रह अगस्त",
-          "notes": "कविता का केंद्रीय भाव, स्वतंत्रता दिवस का महत्व और देशप्रेम की भावना समझें। कठिन शब्दों के अर्थ और भावार्थ का अभ्यास करें।"
-        },
-        {
-          "title": "मेरा भला करने वालों से बचाएँ",
-          "notes": "व्यंग्य की शैली, लेखक का दृष्टिकोण और दिखावे तथा वास्तविक भलाई के बीच अंतर समझें। सारांश और आशय-आधारित प्रश्न तैयार करें।"
-        },
-        {
-          "title": "मध्ययुगीन काव्य — भक्ति महिमा",
-          "notes": "भक्ति-भाव, ईश्वर के प्रति समर्पण और काव्य में व्यक्त जीवन-मूल्यों का भावार्थ लिखें।"
-        },
-        {
-          "title": "मध्ययुगीन काव्य — बाल लीला",
-          "notes": "कविता में बाल-स्वरूप का चित्रण, वात्सल्य भाव और काव्य-सौंदर्य समझें।"
-        },
-        {
-          "title": "कलम का सिपाही",
-          "notes": "पाठ का सार, साहित्यकार के व्यक्तित्व और लेखन के महत्व को समझें। प्रमुख घटनाएँ और पाठ का संदेश लिखें।"
-        },
-        {
-          "title": "स्वागत है!",
-          "notes": "कविता का भाव, स्वागत की भावना और मानवीय संबंधों का महत्व समझें। भावार्थ तथा शब्दार्थ का अभ्यास करें।"
-        },
-        {
-          "title": "तत्सत",
-          "notes": "कहानी के प्रतीक, कथानक, पात्र और मूल विचार समझें। पाठ से जुड़े अर्थ-आधारित प्रश्न तैयार करें।"
-        },
-        {
-          "title": "गजलें — दोस्ती और मौजूद",
-          "notes": "दोनों गजलों का भावार्थ, प्रमुख विचार, भाषा-शैली और गजल की विशेषताएँ समझें।"
-        },
-        {
-          "title": "महत्त्वाकांक्षा और लोभ",
-          "notes": "महत्त्वाकांक्षा तथा लोभ का अंतर, उनके परिणाम और लेखक का संदेश समझें। उदाहरण सहित उत्तर लिखने का अभ्यास करें।"
-        },
-        {
-          "title": "भारती का सपूत",
-          "notes": "पाठ का सार, प्रमुख व्यक्तित्व, योगदान और देश/समाज के प्रति जिम्मेदारी का भाव समझें।"
-        },
-        {
-          "title": "सहर्ष स्वीकारा है",
-          "notes": "कविता का केंद्रीय भाव, स्वीकृति, संघर्ष और जीवन-दृष्टि समझें। भावार्थ और काव्य-सौंदर्य का अभ्यास करें।"
-        },
-        {
-          "title": "नुक्कड़ नाटक — मौसम और अनमोल जिंदगी",
-          "notes": "नाटक का उद्देश्य, पात्र, संवाद, मंचन और सामाजिक संदेश समझें। दोनों नाटकों के कथानक अलग-अलग लिखें।"
-        },
-        {
-          "title": "हिंदी में उज्ज्वल भविष्य की संभावनाएँ",
-          "notes": "हिंदी भाषा के उपयोग, शिक्षा, रोजगार और संचार में संभावनाओं पर व्यवस्थित उत्तर तैयार करें।"
-        },
-        {
-          "title": "समाचार : जन से जनहित तक",
-          "notes": "समाचार का उद्देश्य, तथ्यपरकता, शीर्षक, समाचार लेखन की संरचना और जनहित का महत्व समझें।"
-        },
-        {
-          "title": "रेडियो जॉकी",
-          "notes": "रेडियो जॉकी की भूमिका, आवाज़, प्रस्तुति, श्रोताओं से संवाद और कार्यक्रम की रूपरेखा समझें।"
-        },
-        {
-          "title": "ई-अध्ययन : नई दृष्टि",
-          "notes": "डिजिटल अध्ययन के लाभ, चुनौतियाँ और जिम्मेदार उपयोग समझें। उत्तर में उदाहरण और संतुलित निष्कर्ष दें।"
-        },
-        {
-          "title": "हिंदी व्याकरण और रचना",
-          "notes": "अपठित गद्यांश/काव्यांश, शब्द-संपदा, मुहावरे, वाक्य-शुद्धि, काल, रस और अलंकार का अभ्यास करें। निबंध, पत्र, विज्ञापन, अनुवाद, संवाद और वृत्तांत के प्रारूप दोहराएँ।"
-        }
-      ]
-    },
-    {
-      "name": "Marathi — Yuvakbharati",
-      "chapters": [
-        {
-          "title": "मामू",
-          "notes": "पाठाचा आशय, व्यक्तिचित्रातील मामूंचे स्वभाववैशिष्ट्य, महत्त्वाच्या घटना आणि लेखकाचा दृष्टिकोन समजून घ्या."
-        },
-        {
-          "title": "प्राणसई",
-          "notes": "कवितेचा भावार्थ, निसर्गचित्रण, प्रतिमा आणि कवयित्रीची भावना स्पष्ट करा. रसग्रहणाचा सराव करा."
-        },
-        {
-          "title": "अशी पुस्तकं",
-          "notes": "पुस्तकांचे महत्त्व, वाचनसंस्कृती आणि लेखकाचे विचार समजून घ्या. आशय व मुख्य मुद्दे लिहा."
-        },
-        {
-          "title": "झाडांच्या मनात जाऊ",
-          "notes": "कवितेतील निसर्गप्रेम, झाडांचे महत्त्व आणि मानवी-निसर्ग संबंध यांचा भावार्थ समजून घ्या."
-        },
-        {
-          "title": "परिमळ",
-          "notes": "लेखाचा आशय, भाषाशैली आणि लेखकाने मांडलेले विचार समजून घ्या. महत्त्वाचे मुद्दे नोंदवा."
-        },
-        {
-          "title": "दवांत आलीस भल्या पहाटीं",
-          "notes": "कवितेतील निसर्गसौंदर्य, प्रतिमा, भावविश्व आणि काव्यवैशिष्ट्ये समजून घ्या."
-        },
-        {
-          "title": "‘माणूस’ बांधूया!",
-          "notes": "मानवी मूल्ये, सामाजिक ऐक्य आणि माणुसकीचा संदेश समजून घ्या. उदाहरणांसह उत्तर लिहा."
-        },
-        {
-          "title": "ऐसीं अक्षरें रसिकें",
-          "notes": "अभंग/संतकाव्यातील विचार, भक्तिभाव आणि भाषासौंदर्य यांचा अर्थ समजून घ्या."
-        },
-        {
-          "title": "वहिनींचा ‘सुसाट’ सल्ला",
-          "notes": "कथेतील विनोद, पात्रांचे स्वभाव, प्रसंग आणि लेखकाने निर्माण केलेला परिणाम समजून घ्या."
-        },
-        {
-          "title": "शब्द",
-          "notes": "कवितेतील शब्दांचे सामर्थ्य, सामाजिक आशय आणि कवीची भूमिका स्पष्ट करा."
-        },
-        {
-          "title": "वाङ्मयीन लेण्याचा शिल्पकार",
-          "notes": "व्यक्तिचित्र/चरित्रपर लेखातील व्यक्तीचे योगदान, साहित्यिक कार्य आणि लेखिकेचा दृष्टिकोन समजून घ्या."
-        },
-        {
-          "title": "पैंजण",
-          "notes": "कवितेचा आशय, प्रतिमा आणि काव्यसौंदर्य समजून घ्या."
-        },
-        {
-          "title": "हसवाफसवी",
-          "notes": "नाटकाचा कथानक, पात्रे, विनोदी प्रसंग, संवाद आणि नाट्यवैशिष्ट्ये लिहा."
-        },
-        {
-          "title": "ध्यानीमनी",
-          "notes": "नाटकातील संघर्ष, पात्रांचे विचार, प्रसंगरचना आणि शीर्षकाचे औचित्य समजून घ्या."
-        },
-        {
-          "title": "सुंदर मी होणार",
-          "notes": "नाटकाचा आशय, पात्रविकास, संवाद आणि मध्यवर्ती संदेश समजून घ्या."
-        },
-        {
-          "title": "सूत्रसंचालन",
-          "notes": "कार्यक्रमाची सुरुवात, पाहुण्यांची ओळख, कार्यक्रमाचे दुवे, आभार आणि समारोप यांचा योग्य क्रम शिका."
-        },
-        {
-          "title": "मुद्रितशोधन",
-          "notes": "मजकुरातील शुद्धलेखन, विरामचिन्हे, व्याकरण आणि मांडणीतील चुका शोधून दुरुस्त करण्याचा सराव करा."
-        },
-        {
-          "title": "अनुवाद",
-          "notes": "मूळ अर्थ, संदर्भ आणि शैली कायम ठेवून अचूक व स्वाभाविक मराठी अनुवाद करा."
-        },
-        {
-          "title": "अनुदिनी (ब्लॉग) लेखन",
-          "notes": "आकर्षक शीर्षक, प्रस्तावना, मुद्देसूद परिच्छेद आणि निष्कर्ष वापरून ब्लॉग लिहा."
-        },
-        {
-          "title": "रेडिओजॉकी",
-          "notes": "निवेदन, आवाजातील चढ-उतार, श्रोत्यांशी संवाद आणि कार्यक्रमाची रचना समजून घ्या."
-        },
-        {
-          "title": "शब्दशक्ती",
-          "notes": "शब्दांच्या अर्थछटा आणि संदर्भानुसार अर्थ समजून घ्या; पाठ्यपुस्तकातील उदाहरणे सोडवा."
-        },
-        {
-          "title": "काव्यगुण",
-          "notes": "कवितेतील आशय, माधुर्य, प्रसाद, ओज इत्यादी काव्यगुणांची ओळख उदाहरणांसह करा."
-        },
-        {
-          "title": "वाक्यसंश्लेषण",
-          "notes": "दोन किंवा अधिक वाक्ये अर्थ न बदलता योग्य रचनेने एकत्र करण्याचा सराव करा."
-        },
-        {
-          "title": "काळ",
-          "notes": "वर्तमान, भूत आणि भविष्यकाळ तसेच त्यांचे उपप्रकार उदाहरणांसह ओळखा."
-        },
-        {
-          "title": "काव्याचे रसग्रहण",
-          "notes": "कवितेचा विषय, कवी, मध्यवर्ती कल्पना, आवडलेली ओळ, भाषासौंदर्य आणि स्वतःची प्रतिक्रिया लिहा."
-        },
-        {
-          "title": "परिशिष्ट",
-          "notes": "पाठ्यपुस्तकातील परिशिष्टातील संदर्भ, शब्दसूची आणि पूरक माहिती पुनरावृत्तीसाठी वापरा."
-        }
-      ]
-    },
     {
       "name": "Book Keeping & Accountancy (BKA)",
       "chapters": [
         {
           "title": "Introduction to Book-Keeping and Accountancy",
-          "notes": "Book-keeping is the systematic recording of financial transactions. Accountancy includes recording, classifying, summarising, analysing and interpreting financial information. Revise objectives, users and basic accounting terms."
+          "notes": "Book-keeping is the systematic recording of monetary business transactions. Accountancy includes recording, classifying, summarising, analysing and interpreting accounting information. Objectives: maintain records, calculate profit or loss, show financial position, support decisions and provide information to owners, managers, lenders and government. Key terms: capital is the owner's investment; drawings are withdrawals by the owner; assets are resources; liabilities are obligations; debtors owe money to the business; creditors are owed money by the business; revenue is income and expense is a cost. Accounting information is useful but usually records only measurable monetary events and may involve estimates. Example: when the owner invests ₹80,000 cash, cash (asset) and capital both increase.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Meaning and Fundamentals of Double Entry Book-Keeping",
-          "notes": "Every transaction has two aspects: debit and credit. The accounting equation is Assets = Liabilities + Capital. Revise the rules of debit and credit and the dual effect of transactions."
+          "title": "Fundamentals of Double Entry Book-Keeping",
+          "notes": "Every transaction has two aspects and equal debit and credit effects. Accounting equation: Assets = Capital + Liabilities. Traditional rules: Personal—debit the receiver, credit the giver; Real—debit what comes in, credit what goes out; Nominal—debit expenses and losses, credit incomes and gains. Modern view: assets and expenses normally increase by debit; liabilities, capital and income normally increase by credit. Example: rent paid ₹4,000: Rent A/c Dr. ₹4,000; To Cash A/c ₹4,000. Double entry provides a complete record and helps prepare a trial balance, but a trial balance does not reveal every type of error.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
           "title": "Journal",
-          "notes": "The journal is the book of original entry. Record transactions chronologically with date, accounts, debit amount, credit amount and narration. Practise personal, real and nominal account rules."
+          "notes": "The journal is the book of original entry in which transactions are recorded chronologically. A journal entry shows date, accounts and amounts, followed by a narration. Steps: identify accounts, classify them, apply debit-credit rules, record equal amounts and write a short explanation. Examples: started business with cash ₹50,000—Cash A/c Dr. 50,000; To Capital A/c 50,000. Paid rent ₹2,000—Rent A/c Dr. 2,000; To Cash A/c 2,000. Credit purchase of goods from Neha ₹6,000—Purchases A/c Dr. 6,000; To Neha A/c 6,000. Goods for resale are purchases; furniture or machinery bought for use is an asset, not purchases.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
           "title": "Ledger",
-          "notes": "A ledger contains individual accounts classified from journal entries. Learn posting, balancing accounts and preparing a trial balance from ledger balances."
+          "notes": "A ledger is the principal book containing separate accounts for assets, liabilities, capital, expenses, incomes and persons. Posting transfers journal information to the relevant ledger accounts. Debit is the left side and credit the right side. To balance an account, total both sides and carry the difference to the smaller side. Debit balances commonly occur in assets and expenses; credit balances commonly occur in liabilities, capital and incomes. Example: cash introduced ₹20,000 and rent paid ₹2,000 gives Cash A/c a debit balance of ₹18,000. Journal is chronological; ledger is classified account-wise.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
           "title": "Subsidiary Books",
-          "notes": "Subsidiary books record similar transactions separately, such as cash book, purchases book, sales book and returns books. Understand which transactions belong in each book."
+          "notes": "Subsidiary books record similar transactions separately to save time and divide work. Purchases Book records credit purchases of goods for resale only; Sales Book records credit sales of goods; Purchases Returns Book records goods returned to suppliers; Sales Returns Book records goods returned by customers; Cash Book records cash and bank transactions; Bills Receivable and Bills Payable Books record bills; Journal Proper records entries not suited to other books. Cash purchase of goods goes to Cash Book, not Purchases Book. Credit purchase of furniture goes to Journal Proper, not Purchases Book.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
           "title": "Bank Reconciliation Statement",
-          "notes": "A Bank Reconciliation Statement explains differences between the cash book bank balance and pass book/bank statement balance. Identify timing differences, bank charges, direct deposits and errors."
+          "notes": "A Bank Reconciliation Statement explains the difference between the bank balance in the Cash Book and the Pass Book/bank statement on a particular date. Causes include cheques issued but not presented, cheques deposited but not collected, bank charges, interest, direct deposits, standing instructions, dishonoured cheques and errors. Method: identify the starting balance, understand each item, decide its effect from that starting point, and calculate the adjusted balance. Example with favourable Cash Book balance ₹10,000: add cheques issued but not presented ₹2,000; deduct cheques deposited but not collected ₹1,500 and bank charges ₹200. Pass Book balance = ₹10,300. Add/deduct treatment changes with the starting balance and overdraft situation.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
           "title": "Depreciation",
-          "notes": "Depreciation is the systematic allocation of the depreciable amount of a fixed asset over its useful life. Study causes, need and prescribed methods with worked examples."
+          "notes": "Depreciation is the systematic allocation of the depreciable amount of a tangible fixed asset over its useful life. Causes include wear and tear, passage of time and obsolescence. Depreciable amount = cost − residual value. Straight Line Method: annual depreciation = (cost − residual value) ÷ useful life. Example: cost ₹1,00,000, residual value ₹10,000, life 5 years gives ₹18,000 per year. Written Down Value Method: depreciation = opening book value × rate. At 10% on ₹1,00,000, first-year depreciation is ₹10,000 and closing book value ₹90,000. SLM gives an equal annual charge; WDV gives a reducing charge.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
           "title": "Rectification of Errors",
-          "notes": "Errors may affect one or more accounts and may or may not affect the trial balance. Learn types of errors, suspense account where applicable and correcting entries."
+          "notes": "Rectification means correcting errors in recording, posting, balancing or preparing accounts. Types include omission (transaction not recorded), commission (wrong amount/account/posting), principle (capital and revenue items confused), compensating errors and errors disclosed or not disclosed by a trial balance. A Suspense Account may temporarily hold a trial balance difference until errors are located. Example: furniture ₹5,000 wrongly debited to Purchases A/c: Furniture A/c Dr. ₹5,000; To Purchases A/c ₹5,000. To rectify, identify the correct treatment, compare it with the entry made and pass the correcting entry.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
           "title": "Final Accounts of a Proprietary Concern",
-          "notes": "Prepare Trading Account, Profit and Loss Account and Balance Sheet. Classify items correctly and account for adjustments such as closing stock, outstanding/prepaid expenses and depreciation."
+          "notes": "Final accounts determine gross profit, net profit and financial position. Trading Account calculates gross profit: Gross Profit = Net Sales − Cost of Goods Sold. Cost of Goods Sold = Opening Stock + Net Purchases + Direct Expenses − Closing Stock. Profit and Loss Account starts with gross profit, adds other incomes and deducts indirect expenses to find net profit. Balance Sheet shows assets, liabilities and capital on a particular date. Adjustments: outstanding expense is added to expense and shown as liability; prepaid expense is deducted and shown as asset; accrued income is added to income and shown as asset; income received in advance is deducted and shown as liability; depreciation is charged to P&L and reduces asset value.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
           "title": "Single Entry System",
-          "notes": "The single entry system is an incomplete system of recording transactions. Study its features, limitations and the statement of affairs method for ascertaining profit or loss."
+          "notes": "Single Entry System is an incomplete method of recording transactions; it does not record both aspects of every transaction. Personal accounts and cash records may be maintained, but a complete trial balance may not be possible. Under Statement of Affairs method, capital = assets − liabilities. Profit = closing capital + drawings − additional capital − opening capital. Example: opening capital ₹40,000, closing capital ₹55,000, drawings ₹8,000 and additional capital ₹5,000 gives profit ₹18,000. Limitations include incomplete records, difficulty detecting errors and fraud, and less reliable profit figures.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         }
       ]
     },
@@ -336,36 +53,36 @@
       "name": "Organisation of Commerce & Management (OCM)",
       "chapters": [
         {
-          "title": "Introduction of Commerce and Business",
-          "notes": "Understand human wants, economic activities, business, profession and employment. Revise characteristics, objectives and the role of commerce in connecting production and consumption."
+          "title": "Introduction to Commerce and Business",
+          "notes": "Business is an economic activity involving production, purchase or sale of goods and services, usually to earn profit while satisfying needs. Commerce consists of trade and auxiliaries to trade. Trade is buying and selling; auxiliaries include transport, banking, insurance, warehousing, advertising and communication. Industry includes primary activities (extractive and genetic), secondary activities (manufacturing and construction) and tertiary/service activities. Business objectives include economic goals such as profit, growth and innovation, and social goals such as quality goods, fair prices, employment and environmental responsibility.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
           "title": "Trade",
-          "notes": "Trade is the buying and selling of goods and services. Study internal and international trade, wholesale and retail trade, and auxiliaries to trade such as transport, banking, insurance and warehousing."
+          "notes": "Trade is the buying and selling of goods and services. Internal trade occurs within a country and includes wholesale trade (bulk sales to retailers) and retail trade (sales to final consumers). External trade takes place between countries: import means buying from abroad, export means selling abroad and entrepot trade means importing for re-export. Wholesalers provide bulk buying, storage, finance, market information and risk bearing. Retailers provide convenience, product variety, small quantities, customer service and local feedback.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
           "title": "Small Scale Industry and Business",
-          "notes": "Study the meaning, characteristics, importance, opportunities and challenges of small-scale business. Understand its contribution to employment and regional development."
+          "notes": "Small businesses operate on a comparatively limited scale and are important for employment, entrepreneurship, local resource use, regional development and supply chains. Common challenges include limited finance, technology gaps, marketing difficulties, competition, raw-material issues and managerial constraints. Support may include credit, training, technology assistance, incubation, cluster facilities and market access. MSME investment and turnover classifications can change; consult the latest official government notification rather than relying on old figures.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Forms of Business Organisation - I",
-          "notes": "Compare sole trading concern and partnership on ownership, capital, liability, control, continuity and suitability. Learn the key features and limitations of each form."
+          "title": "Forms of Business Organisation – I",
+          "notes": "Sole proprietorship is owned and controlled by one person. Advantages: simple formation, quick decisions, secrecy and direct motivation. Limitations: limited capital, unlimited liability in ordinary proprietorship and dependence on one owner. Partnership is an agreement between persons to share profits of a business carried on by all or any one acting for all. A partnership deed may state capital, profit-sharing ratio, duties, interest, salary and dispute procedures. Partnership offers combined capital and skills but may involve disputes and shared liability.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Forms of Business Organisation - II",
-          "notes": "Study joint stock companies and co-operative societies. Compare formation, ownership, liability, management, continuity and distribution of profits."
+          "title": "Forms of Business Organisation – II",
+          "notes": "A co-operative society is a voluntary association formed to promote members' common economic interests through democratic participation and service. Types include consumer, producer, marketing, credit, housing and farming co-operatives. A joint stock company is an incorporated legal entity with capital divided into shares. Features include separate legal existence, perpetual succession and limited liability subject to law. Private and public companies differ in share transfer and public invitation rules; statutory requirements should be checked against current company law.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Institutes Supporting Business",
-          "notes": "Understand how institutions support entrepreneurs and businesses through finance, training, guidance, infrastructure and marketing assistance. Learn each institution’s role from the textbook."
+          "title": "Institutions Supporting Business",
+          "notes": "Institutions support businesses through finance, training, infrastructure, technology, advisory services and market access. Banks provide deposits, payments, working capital and term loans. Government agencies and development institutions may provide entrepreneurship training, credit support, technology programmes, industrial infrastructure and export assistance. Before applying for any scheme, check current eligibility, documents, charges, deadlines and official status.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
           "title": "Business Environment",
-          "notes": "Business environment includes internal and external forces affecting business decisions. Study economic, social, political, legal, technological and natural factors."
+          "notes": "Business environment is the combination of internal and external forces affecting business decisions. Internal factors include owners, employees, management, resources and culture. External factors include customers, suppliers, competitors, government, technology, economy, society and nature. PESTLE analysis studies Political, Economic, Social, Technological, Legal and Environmental factors. SWOT identifies Strengths, Weaknesses, Opportunities and Threats. Environmental analysis helps identify opportunities, anticipate risks and adapt strategy.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
           "title": "Introduction to Management",
-          "notes": "Management involves planning, organising, staffing, directing and controlling resources to achieve objectives efficiently and effectively. Revise levels, importance and functions of management."
+          "notes": "Management is the process of planning, organising, staffing, directing and controlling resources to achieve objectives efficiently and effectively. Planning sets objectives and actions; organising allocates tasks and authority; staffing recruits and develops people; directing guides, motivates and communicates; controlling compares actual results with standards and corrects deviations. Top management sets direction, middle management coordinates departments and supervisory management guides daily work. Efficiency means minimising waste; effectiveness means achieving goals.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         }
       ]
     },
@@ -373,52 +90,52 @@
       "name": "Secretarial Practice (SP)",
       "chapters": [
         {
-          "title": "Secretary",
-          "notes": "A secretary assists an organisation with communication, records, meetings and administrative coordination. Study qualities, duties, responsibilities and types of secretary."
+          "title": "Introduction to Secretarial Practice",
+          "notes": "A secretary performs administrative, communication, coordination and record-keeping duties. A company secretary is a specialised professional role supporting governance and statutory compliance. Important qualities include integrity, confidentiality, accuracy, punctuality, communication, organisation, tact and legal awareness. Duties may include correspondence, records, meeting arrangements, document preparation and coordination. Company secretarial responsibilities are governed by applicable company law.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
           "title": "Joint Stock Company",
-          "notes": "A joint stock company is an incorporated association with separate legal identity and capital divided into shares. Revise features, merits, limitations and types."
+          "notes": "A joint stock company is an incorporated association with a separate legal identity, capital divided into shares and continuity independent of changes in membership. Features include separate legal entity, perpetual succession, limited liability subject to law and regulated management. Advantages include ability to raise capital, continuity and professional management. Limitations include legal formalities, disclosure requirements and possible delays in decisions.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
           "title": "Formation of a Company",
-          "notes": "Study the stages of company formation: promotion, incorporation, capital subscription and commencement of business, as applicable to the prescribed company type."
+          "notes": "Company formation commonly involves promotion and incorporation, followed by commencement requirements where applicable. Promoters identify the business opportunity, assess feasibility, arrange resources and prepare documents. Incorporation application is filed with the Registrar of Companies using prescribed documents and declarations. The Certificate of Incorporation establishes the company's legal existence. Current forms, fees and filing procedures must be checked on the Ministry of Corporate Affairs portal.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Documents related to formation of a company",
-          "notes": "Understand the purpose and contents of the Memorandum of Association, Articles of Association, prospectus and other prescribed formation documents."
+          "title": "Documents Related to Company Formation",
+          "notes": "Memorandum of Association (MOA) sets out the company's fundamental constitution and permitted scope; clauses commonly cover name, registered office, objects, liability, capital and subscription. Articles of Association (AOA) contain internal management rules, such as share procedures, meetings and director matters. A prospectus is a disclosure document used when securities are offered to the public, where applicable. MOA defines the framework; AOA regulates internal management, both subject to law.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Members of a company",
-          "notes": "Study who can become a member, modes of membership, rights, duties and termination of membership. Distinguish a member from a shareholder where relevant."
+          "title": "Members of a Company",
+          "notes": "A member is a person whose name is entered in the register of members or who otherwise qualifies under company law. A shareholder holds shares; the terms often overlap but are not identical in every legal situation. Membership may arise through subscription, allotment, transfer, transmission or other lawful means. Rights may include voting, receiving notices and declared dividends, and inspecting permitted records. Duties include paying amounts due and complying with the company's constitution.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Directors and Key Managerial personnel of a company",
-          "notes": "Study appointment, qualifications, powers, duties and responsibilities of directors and key managerial personnel as prescribed. Verify statutory details against the current textbook."
+          "title": "Company Meetings",
+          "notes": "Company meetings are formal gatherings of members or directors to transact business according to law and the company's articles. Common types include Annual General Meetings, Extraordinary General Meetings, class meetings and board meetings. Notice informs participants; agenda lists business; quorum is the minimum attendance; a resolution is a formal decision; minutes are the official record. Notice periods, quorum and filing requirements depend on current law.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Company Meetings - I",
-          "notes": "Revise the meaning, importance, types and basic procedure of company meetings. Study notice, agenda, quorum and chairperson as prescribed."
+          "title": "Directors and Key Managerial Personnel",
+          "notes": "Directors form the Board and participate in directing and supervising company affairs. Their duties include acting in good faith, exercising care and diligence, avoiding conflicts and complying with law. The Board oversees strategy, risk, financial reporting and compliance. Key Managerial Personnel may include managing director/CEO/manager, company secretary, whole-time director and CFO as defined by law. Appointment and eligibility rules must be checked against current legislation.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Company Meetings - II",
-          "notes": "Study resolutions, minutes, voting and other meeting procedures in the textbook. Distinguish ordinary and special resolutions where applicable."
+          "title": "Company Secretary",
+          "notes": "A Company Secretary is a qualified professional who supports the Board and company in governance, compliance, legal procedures, records and communication. Functions include advising on compliance, coordinating meetings, maintaining statutory registers and minutes, supporting timely filings and communicating with members and regulators. Essential qualities include professional knowledge, integrity, independence, confidentiality and accuracy.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Business Communication Skills of Secretary",
-          "notes": "Study oral, written and non-verbal communication, listening, drafting and professional etiquette required for secretarial work."
+          "title": "Depository System",
+          "notes": "A depository holds securities electronically and enables transfer through a depository participant (DP). A demat account holds securities; a trading account is used for market transactions; a bank account handles funds. Participants include investors, depositories, DPs, issuers and registrars/transfer agents. Benefits include reduced paperwork, lower risk of loss or forgery, faster transfer and easier portfolio management. Use authorised intermediaries and protect account credentials.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Correspondence with Directors",
-          "notes": "Practise formal letters and communications addressed to directors. Follow the prescribed format, clear subject, polite tone and concise body."
+          "title": "Investor Protection",
+          "notes": "Investor protection promotes fair markets, accurate disclosure, grievance redressal and prevention of fraud. Investors should read offer documents, understand risks and charges, verify regulated intermediaries, review statements and never share passwords or OTPs. SEBI regulates India's securities markets and provides investor-related information and grievance mechanisms. Use official SEBI and exchange channels for current procedures.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Correspondence with Banks",
-          "notes": "Study the purpose and format of routine business correspondence with banks. Practise clear, accurate and formal drafting."
+          "title": "Business Correspondence",
+          "notes": "Business correspondence is formal written communication with customers, suppliers, employees, banks and authorities. Effective correspondence is clear, complete, correct, concise, courteous and appropriately toned. A business letter generally contains sender address, date, receiver address, subject, salutation, body, complimentary close and signature. Professional email uses a meaningful subject, correct recipients, concise paragraphs, suitable attachments and a formal closing.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Correspondence with Statutory Authorities",
-          "notes": "Study formal correspondence with statutory authorities. Use accurate references, clear requests, supporting details and a professional closing."
+          "title": "Business Communication and Office Practice",
+          "notes": "Office communication may be oral, written or digital. Effective communication requires a clear purpose, suitable channel, accurate message, feedback and attention to barriers such as noise, language, assumptions and poor listening. Office records should be accurate, secure, accessible to authorised users and retained according to policy. Digital safety includes strong unique passwords, multi-factor authentication and careful handling of confidential documents.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         }
       ]
     },
@@ -427,43 +144,43 @@
       "chapters": [
         {
           "title": "Basic Concepts in Economics",
-          "notes": "Study the meaning, scope and basic concepts of economics, including wants, utility, goods, wealth, scarcity and choice. Learn definitions and suitable examples."
+          "notes": "Economics studies how individuals and society use scarce resources to satisfy unlimited wants. Scarcity requires choice and creates opportunity cost—the next best alternative sacrificed. Microeconomics studies individual consumers, firms and markets; macroeconomics studies aggregates such as national income, inflation and unemployment. Positive statements describe what is; normative statements express what ought to be. Economic activities include production, consumption, exchange and distribution.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Money",
-          "notes": "Revise the meaning, functions and types of money, evolution of money and its role in exchange and the economy."
+          "title": "Utility Analysis",
+          "notes": "Utility is the want-satisfying power of a good or service. Total utility is satisfaction from all units consumed; marginal utility is the additional satisfaction from one more unit. The law of diminishing marginal utility states that, other things equal, marginal utility tends to decline as more units of a good are consumed in a period. Utility is subjective and depends on preferences, time and circumstances. Example: the first glass of water when thirsty may provide more additional satisfaction than a later glass.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Partition Values",
-          "notes": "Study partition values as statistical measures that divide an ordered data set into equal parts. Revise the textbook’s definitions, formulae and solved examples."
+          "title": "Demand Analysis",
+          "notes": "Demand means the quantity of a good consumers are willing and able to buy at different prices during a period. The law of demand states that, other things equal, quantity demanded generally rises when price falls and falls when price rises. A demand schedule lists price and quantity; a demand curve usually slopes downward. Determinants include income, tastes, prices of related goods, expectations and number of buyers. A change in own price causes movement along the curve; other factors shift the curve.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "The Economy of Maharashtra",
-          "notes": "Study the structure and features of Maharashtra’s economy, major sectors, resources, development and regional differences using textbook data."
+          "title": "Elasticity of Demand",
+          "notes": "Price elasticity of demand measures responsiveness of quantity demanded to a change in price. Percentage method: Ed = percentage change in quantity demanded ÷ percentage change in price (often expressed in absolute value). Demand may be elastic, inelastic, unitary, perfectly elastic or perfectly inelastic. Influences include availability of substitutes, necessity, proportion of income spent and time to adjust. Elasticity helps firms and governments understand the effect of price changes.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Rural Development in India",
-          "notes": "Understand the meaning, importance and challenges of rural development. Study agriculture, infrastructure, employment and rural development measures described in the textbook."
+          "title": "Supply Analysis",
+          "notes": "Supply is the quantity producers are willing and able to offer for sale at different prices during a period. The law of supply states that, other things equal, quantity supplied generally rises with price. A supply curve usually slopes upward. Determinants include input costs, technology, taxes, subsidies, number of sellers, expectations and natural conditions. Own-price changes cause movement along the curve; other factors shift supply.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Population in India",
-          "notes": "Revise population size, distribution, density, growth, composition and demographic features. Use textbook figures with their stated reference year."
+          "title": "Market",
+          "notes": "A market is an arrangement through which buyers and sellers interact to exchange goods or services. Market structures include perfect competition, monopoly, monopolistic competition and oligopoly. They differ in number of firms, product differentiation, entry barriers and control over price. Perfect competition has many buyers and sellers with homogeneous products and relatively free entry; monopoly has a single seller with strong barriers. Real markets may combine features.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Unemployment in India",
-          "notes": "Study the meaning, types, causes and effects of unemployment and measures for employment generation described in the textbook."
+          "title": "Index Numbers",
+          "notes": "An index number measures relative change in a variable or group of variables over time, usually with a base period set to 100. Price indices measure price-level changes; quantity indices measure quantities; value indices measure total value. A simple price relative = (current price ÷ base price) × 100. Weighted indices give different importance to items. Uses include studying inflation, cost of living and economic trends. Limitations include choice of base year, items, weights and data quality.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Poverty in India",
-          "notes": "Understand poverty, its measurement, causes, effects and poverty-alleviation measures. Distinguish textbook definitions and indicators."
+          "title": "National Income",
+          "notes": "National income accounting measures the value of economic production and income over a period. GDP is the market value of final goods and services produced within a country's domestic territory in a period. GNP/GNI adjusts for net factor income from abroad depending on the measure. Methods include product/value-added, income and expenditure methods. Avoid double counting by counting final output or value added. National income helps compare economic performance but does not alone measure equality, unpaid work or quality of life.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Economic Policy of India Since 1991",
-          "notes": "Study liberalisation, privatisation and globalisation, the reasons for reforms and their effects on the Indian economy."
+          "title": "Public Finance",
+          "notes": "Public finance studies government revenue, expenditure, borrowing and financial administration. Sources of revenue include taxes, fees, fines and other receipts. Direct taxes are imposed directly on income or wealth; indirect taxes are imposed on goods and services and may be passed to consumers. Public expenditure supports infrastructure, education, health, security and welfare. A budget presents estimated receipts and expenditure for a period. Fiscal policy uses taxation and spending to influence economic activity.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Economic Planning in India",
-          "notes": "Revise the objectives, strategies, institutions and broad phases of economic planning in India as explained in the textbook."
+          "title": "Money and Banking",
+          "notes": "Money is generally accepted as a medium of exchange, a measure of value, a store of value and a standard of deferred payment. Commercial banks accept deposits, provide loans and facilitate payments. A central bank issues currency (subject to the monetary system), acts as banker to government and banks, manages reserves and conducts monetary policy. Digital payments improve convenience but users should protect PINs, passwords and OTPs and verify recipients.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         }
       ]
     },
@@ -471,101 +188,48 @@
       "name": "Information Technology (IT)",
       "chapters": [
         {
-          "title": "Basics of Information Technology",
-          "notes": "Study the meaning and components of IT, data and information, hardware, software, input/output devices, storage, networks and basic digital concepts."
+          "title": "Computer Fundamentals",
+          "notes": "A computer accepts data, processes it according to instructions, stores it and produces information. Hardware includes input devices, CPU, memory, storage and output devices. Software includes system software (operating systems and utilities) and application software. The CPU contains the control unit and arithmetic logic unit. RAM is volatile working memory; ROM is non-volatile. Storage devices retain data. Data becomes useful information when processed in context.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Introduction to DBMS",
-          "notes": "Understand databases, DBMS functions, tables, records, fields, keys and basic database operations. Practise textbook examples and terminology."
+          "title": "Operating System and File Management",
+          "notes": "An operating system manages hardware, memory, processes, files, devices and user interaction. Common tasks include creating folders, naming files, copying, moving, searching, deleting and restoring files. Use meaningful names and organised folders. Back up important work to more than one safe location. File extensions indicate formats, such as .pdf, .docx, .xlsx, .jpg and .html; do not open unknown attachments.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Impressive Web Designing",
-          "notes": "Study the structure of web pages, HTML fundamentals, common elements, hyperlinks, images, tables and basic design principles as prescribed."
+          "title": "Word Processing and Document Creation",
+          "notes": "Word processors create and format text documents. Core skills include page setup, margins, fonts, paragraph alignment, line spacing, bullets, numbering, tables, headers, footers, page numbers, spell-check and export to PDF. Use styles for consistent headings and an automatic table of contents for long documents. Review spelling, layout and accessibility before sharing.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Cyber Law",
-          "notes": "Study the purpose of cyber law, digital rights and responsibilities, cyber offences and safe, lawful use of digital systems. Keep the notes informational and prevention-focused."
+          "title": "Spreadsheet Applications",
+          "notes": "A spreadsheet organises data in rows and columns. A cell is identified by column letter and row number. Formulas begin with =. Common functions include SUM, AVERAGE, MIN, MAX and COUNT. Relative references change when copied; absolute references use dollar signs, such as $A$1. Sort and filter data carefully, use clear headings and charts where they help. Check formulas and units before drawing conclusions.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "SOP: Daily Computing (LibreOffice)",
-          "notes": "Practical guide: Learn the prescribed office-suite tasks, document creation, formatting, spreadsheets and presentations. Follow the textbook practical steps and screenshots."
+          "title": "Presentation Software",
+          "notes": "Presentation software communicates ideas through slides. Good slides use one main idea, readable text, consistent design, meaningful visuals and limited animation. Use slide layouts and themes consistently. Speaker notes can hold extra explanation. Check contrast, spelling, media permissions and compatibility before presenting.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "SOP: Web Designing (HTML-5)",
-          "notes": "Practical guide: Practise the prescribed HTML5 page structure and elements using the textbook exercises. Validate tags and page output."
+          "title": "Internet and Web Services",
+          "notes": "The internet is a global network of connected networks. The World Wide Web is a service accessed through browsers using URLs and protocols such as HTTPS. Search engines index and retrieve pages. Email, cloud storage, video meetings and e-commerce are common services. Evaluate sources by author, date, evidence, purpose and corroboration. HTTPS encrypts data in transit but does not guarantee that a website is honest.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "SOP: Client Side Scripting (JavaScript)",
-          "notes": "Practical guide: Study basic client-side scripting concepts, syntax and textbook exercises. Practise simple examples in a safe local learning environment."
+          "title": "Cyber Safety and Digital Citizenship",
+          "notes": "Cyber safety means protecting devices, accounts, information and people online. Use long unique passwords and multi-factor authentication; update software; install apps from trusted sources; check links and sender details; never share OTPs; and report suspicious messages. Digital citizenship includes respectful communication, privacy, copyright awareness, avoiding cyberbullying and checking information before sharing.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "SOP: Accounting Package (GNUKhata)",
-          "notes": "Practical guide: Study the prescribed accounting-package interface and textbook tasks for recording and viewing accounting information."
+          "title": "HTML and Web Page Basics",
+          "notes": "HTML structures web content using elements represented by tags. A basic document includes doctype, html, head, title and body. Headings use h1 to h6, paragraphs use p, links use a with href, and images use img with src and meaningful alt text. Lists use ul/ol and li. Semantic elements such as header, nav, main, section and footer improve structure. HTML describes content; CSS controls presentation.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "SOP: Digital Content Creation (GIMP, Inkscape)",
-          "notes": "Practical guide: Learn the prescribed image-editing and vector-graphics concepts and complete textbook activities."
+          "title": "Client-Side Scripting",
+          "notes": "JavaScript adds behaviour to web pages. Variables store values; common data types include strings, numbers and booleans. Conditions use if/else; loops repeat actions; functions package reusable logic. Events respond to user actions. Validate user input for usability, but never rely only on client-side checks for security. Keep code readable and test edge cases.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "SOP: DBMS (PostgreSQL)",
-          "notes": "Practical guide: Study the database software and prescribed SQL/database tasks. Practise only the commands and exercises included in the course."
+          "title": "Database Management Systems",
+          "notes": "A database stores organised data. A DBMS creates, retrieves, updates and manages data while supporting security and consistency. Relational databases organise information into tables with rows and columns. A primary key uniquely identifies a row; a foreign key links tables. SQL commonly uses SELECT to retrieve, INSERT to add, UPDATE to modify and DELETE to remove records. Use WHERE carefully, especially with UPDATE and DELETE.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Appendix: Installation Steps and Abbreviations",
-          "notes": "Use the appendix as a reference for textbook installation guidance, terminology and abbreviations. Check software-version differences before following installation steps."
-        }
-      ]
-    },
-    {
-      "name": "Physical Education (PE)",
-      "chapters": [
-        {
-          "title": "Development of Physical Fitness",
-          "notes": "Study the components of physical fitness, their importance and safe ways of developing them. Understand the purpose of fitness assessment and regular activity."
-        },
-        {
-          "title": "Obesity",
-          "notes": "Study the meaning, contributing factors, health effects, prevention and the importance of supportive, healthy habits. Avoid stigma and body comparisons."
-        },
-        {
-          "title": "Nature and Diet",
-          "notes": "Revise balanced nutrition, food groups, hydration and the relationship between diet, activity and wellbeing. Use age-appropriate, non-restrictive health guidance."
-        },
-        {
-          "title": "Yoga and Mudra",
-          "notes": "Study the meaning, principles and general benefits of yoga and mudras. Follow qualified instruction and avoid attempting painful or unsuitable practices."
-        },
-        {
-          "title": "Doping (Stimulants)",
-          "notes": "Study the meaning of doping, fairness in sport, health risks, anti-doping principles and prevention. This chapter is informational; do not use performance-enhancing substances."
-        },
-        {
-          "title": "Injury Management",
-          "notes": "Understand common sports-injury categories, prevention, the importance of stopping activity when injured and seeking qualified medical assessment. Follow the textbook’s safety guidance."
-        },
-        {
-          "title": "Modern Technology - Activism",
-          "notes": "Study the role of modern technology in physical activity and sport, including monitoring, training support, media and responsible use. Verify the exact chapter wording in the book."
-        },
-        {
-          "title": "Career Opportunities in Sports",
-          "notes": "Explore the sports-related career areas listed in the textbook, required skills, education and professional responsibilities."
-        },
-        {
-          "title": "Various Games",
-          "notes": "Revise the games included in the textbook, their basic rules, playing areas, equipment and skills. Confirm the exact list from the textbook."
-        },
-        {
-          "title": "Various Sports Competitions",
-          "notes": "Study types and organisation of sports competitions, basic formats, roles and sporting values as described in the textbook."
-        },
-        {
-          "title": "Success Stories of Sportsmen",
-          "notes": "Use the textbook profiles to identify achievements, discipline, teamwork, resilience and lessons from sports careers."
-        },
-        {
-          "title": "Practical Work",
-          "notes": "Complete the practical activities, records and assessments prescribed by the school and textbook under teacher supervision."
+          "title": "Digital Content Creation and Practical Work",
+          "notes": "Digital content may include text, images, graphics, audio, video and web pages. A typical workflow is plan, create, edit, review, export and publish. Use appropriate file formats and dimensions; retain editable source files; credit third-party assets; and obtain permission where required. Practical tasks should be completed using the software prescribed by the school/textbook edition, as available options may vary.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         }
       ]
     },
@@ -574,31 +238,263 @@
       "chapters": [
         {
           "title": "Environment and Sustainable Development",
-          "notes": "Study the meaning and components of environment, human-environment relationships and sustainable development. Revise principles and everyday examples."
+          "notes": "Environment includes living organisms and non-living surroundings and the relationships among them. Sustainable development meets present needs without compromising the ability of future generations to meet theirs. Its dimensions include environmental protection, social well-being and economic development. Reduce waste, conserve resources, prevent pollution and support responsible consumption.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
           "title": "Ecosystems",
-          "notes": "Understand ecosystem structure, biotic and abiotic components, food chains, food webs, energy flow and ecological balance."
+          "notes": "An ecosystem is a functional unit where organisms interact with each other and with physical factors. Biotic components include producers, consumers and decomposers; abiotic components include air, water, soil, light and temperature. Food chains show energy transfer; food webs connect multiple chains. Energy flows through trophic levels while nutrients are recycled. Ecosystem balance can be affected by pollution, habitat loss and invasive species.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
           "title": "Biodiversity",
-          "notes": "Study the meaning, levels, importance, threats and conservation of biodiversity. Distinguish in-situ and ex-situ conservation."
+          "notes": "Biodiversity is the variety of life at genetic, species and ecosystem levels. It supports food, medicine, pollination, soil fertility, climate regulation and cultural values. Threats include habitat destruction, overexploitation, pollution, invasive species and climate change. Conservation may be in-situ (protecting species in natural habitats) or ex-situ (conservation outside natural habitats, such as seed banks and botanical gardens).\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
           "title": "Natural Resources",
-          "notes": "Revise renewable and non-renewable resources, their uses, conservation and sustainable management."
+          "notes": "Natural resources include water, air, soil, forests, minerals and energy sources. Renewable resources can replenish when managed sustainably; non-renewable resources are finite on human timescales. Conservation measures include rainwater harvesting, watershed management, soil protection, afforestation, energy efficiency, recycling and responsible consumption. Resource use should consider ecological limits and community needs.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Disasters",
-          "notes": "Study natural and human-made disasters, preparedness, risk reduction, response and recovery. Focus on safety and official guidance."
+          "title": "Pollution and Waste Management",
+          "notes": "Pollution is the introduction of harmful substances or energy into the environment. Major forms include air, water, soil, noise and plastic pollution. Prevention is better than treatment: reduce unnecessary consumption, reuse products, segregate waste, recycle suitable materials and dispose of hazardous waste through authorised systems. Avoid burning waste and never pour chemicals into drains or water bodies.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Glossary",
-          "notes": "Use the glossary to revise key environmental terms and their textbook definitions."
+          "title": "Disasters and Disaster Management",
+          "notes": "A disaster is a serious disruption causing human, material, economic or environmental losses. Hazards may be natural or human-induced. Disaster management includes mitigation, preparedness, response and recovery. Follow official alerts, know safe exits and emergency contacts, keep essential supplies as advised by authorities and participate in school/community drills. During an emergency, follow local authorities and avoid spreading unverified messages.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
         },
         {
-          "title": "Project Guidelines and List",
-          "notes": "Follow the textbook and teacher’s instructions for selecting, researching, documenting and presenting an environmental project."
+          "title": "Environmental Laws, Awareness and Community Action",
+          "notes": "Environmental protection involves laws, institutions, public participation and responsible behaviour. Individuals can save water and electricity, use public transport where practical, reduce single-use items, plant and care for native vegetation and report pollution through appropriate local channels. Environmental awareness projects should identify a local issue, collect reliable observations, suggest practical action and report results honestly.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        }
+      ]
+    },
+    {
+      "name": "English",
+      "chapters": [
+        {
+          "title": "Prose: Being Neighborly",
+          "notes": "Study the prose through its central situation, characters, setting, sequence of events and message. Prepare a concise summary in your own words, explain the title, identify important incidents and describe how the characters' actions develop the theme. For textual answers, support points with relevant details from the lesson. Vocabulary work: note unfamiliar words, meanings, synonyms and use each in an original sentence. Practice: write a character sketch, explain the title and answer a short extract-based question.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "Prose: On to the Summit",
+          "notes": "Focus on the journey, challenges, preparation, courage, teamwork and determination presented in the lesson. Distinguish physical challenges from mental qualities such as patience and confidence. Prepare a chronological summary and identify the turning point. Practice a paragraph on perseverance and answer questions using evidence from the prescribed text.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "Prose: The Call of the Soil",
+          "notes": "Explore the relationship between people, land, work, nature and responsibility. Identify the narrator's perspective, the importance of the soil and the values conveyed. Prepare a summary, title explanation, vocabulary list and short answers. Connect the lesson's message to sustainable living without replacing textual evidence with unrelated general statements.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "Prose: Pillars of Democracy",
+          "notes": "Understand the central ideas of democracy, participation, rights, duties, institutions and responsible citizenship as presented in the lesson. Identify the meaning of key terms and the examples used by the author. Practice a structured answer: introduce the idea, explain two or three points and conclude with the lesson's message.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "Prose: Mrs. Adis",
+          "notes": "Study the main character, important events, conflict and resolution. A character sketch should describe traits and support them with actions from the text. Explain the title and theme in a clear paragraph. Prepare a sequence of events and practise inference-based questions.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "Prose: Tiger Hills",
+          "notes": "Study the context, setting, sequence and human qualities highlighted in the lesson. Separate factual details from the author's reflections. Prepare a summary, important vocabulary and short answers. For longer answers, organise information chronologically and explain the significance of the events.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "Poem: Cherry Tree",
+          "notes": "Poem appreciation headings: Title; Poet; Rhyme Scheme; Figures of Speech; Central Idea/Theme; Favourite Line; Special Features; Why I Like the Poem. Identify the speaker, imagery, tone and message from the actual poem. Confirm the rhyme scheme by matching end sounds stanza by stanza; do not guess. Explain figures of speech with the exact relevant expression and its effect.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "Poem: The Sower",
+          "notes": "Write appreciation under the standard headings: title, poet, rhyme scheme, figures of speech, central idea, favourite line, special features and personal response. Focus on the image of sowing, labour, hope and the poem's tone as supported by its text. Verify rhyme and figures directly from the prescribed poem.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "Poem: There is Another Sky",
+          "notes": "Appreciate the poem through its title, poet, rhyme scheme, figures of speech, central idea, favourite line, special features and personal response. Examine imagery, contrast, mood and the idea of hope or possibility where supported by the poem. Quote only a short line when required and explain its significance.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "Poem: Upon Westminster Bridge",
+          "notes": "Appreciate the poem by identifying the speaker's view of the city, the time and atmosphere, imagery, personification and emotional response. Use the prescribed text to establish rhyme scheme and figures of speech. Explain how the poet presents the scene and why it creates a particular mood.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "Poem: Nose versus Eyes",
+          "notes": "Study the humorous debate, personification, argument and resolution. Explain how the poem uses dialogue and humour to present disagreement. Appreciation should include title, poet, rhyme scheme, figures of speech, central idea, favourite line, special features and personal response, verified from the text.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "Poem: The Planners",
+          "notes": "Study the poem's description of planning, order, change and the effects on place or people. Identify imagery, tone, contrast and the poet's attitude. Appreciation must include title, poet, rhyme scheme, figures of speech, central idea, favourite line, special features and personal response. Verify all technical details from the printed poem.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "Expansion of Ideas",
+          "notes": "Expansion of an idea develops a given thought, proverb or statement into a coherent paragraph. Begin by explaining the idea, develop it with reasoning and examples, and end with a relevant conclusion. Keep one central theme, use linking words and avoid repetition. A useful structure is: meaning → explanation → example → wider relevance → conclusion.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "Blog Writing",
+          "notes": "A blog is an informal or semi-formal online article written for a target audience. Include an engaging title, introduction, organised subheadings, informative body paragraphs and a concluding thought or call to action. Use a consistent voice, accurate facts and readable paragraphs. Avoid copying content and cite reliable sources when using information from others.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "Email Writing",
+          "notes": "A formal email includes a clear subject, suitable greeting, concise purpose, necessary details, polite request or action, closing and sender name. Check recipient addresses, attachments, spelling and tone. Use CC only for people who need visibility and BCC where appropriate for privacy. Informal emails may use a warmer tone but should remain clear.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "Interview Writing",
+          "notes": "An interview is a structured conversation designed to obtain information or opinions. Prepare a brief introduction, relevant open-ended questions, follow-up questions and a polite conclusion. Questions should be clear, respectful and focused. In a written interview, present the interviewer's questions and interviewee's answers in a consistent format without changing the meaning.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "Film Review",
+          "notes": "A film review introduces the film and gives an informed evaluation. Include title, director, genre and relevant cast; briefly describe the premise without major spoilers; comment on acting, direction, story, music, cinematography and overall impact; then give a balanced recommendation. Support opinions with reasons and avoid retelling the entire plot.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "The Art of Compering",
+          "notes": "Compering is hosting and guiding an event. A compere welcomes the audience, introduces guests and programme items, maintains transitions, gives necessary announcements and closes the event. Use clear pronunciation, suitable language, correct names and timings. Prepare a running order, brief introductions and backup lines for delays. Be respectful and avoid unnecessary lengthy speeches.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "History of English Drama",
+          "notes": "Drama is a literary form intended for performance through dialogue and action. Study major historical stages, changes in theatre, dramatic forms and representative features as outlined in the textbook. Key terms include plot, character, dialogue, setting, conflict, act, scene, tragedy and comedy. Use the textbook's timeline and examples for period-specific details.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "Drama: The Rising of the Moon",
+          "notes": "Study the setting, characters, conflict, dialogue, dramatic irony and resolution in the prescribed extract. Explain how dialogue reveals character and advances the action. Prepare a scene summary, character notes and answers on the central conflict. Use textual evidence and distinguish stage directions from spoken dialogue.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "Drama: A Midsummer Night's Dream (Prescribed Extract)",
+          "notes": "Read the prescribed extract in context. Identify characters, relationships, situation, humour, misunderstanding and dramatic devices. Explain unfamiliar expressions using the textbook notes. Do not summarise scenes outside the prescribed extract unless asked. Practise character-based and extract-based questions.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "Drama: An Enemy of the People (Prescribed Extract)",
+          "notes": "Study the prescribed extract's conflict, characters, public interest, truth, responsibility and social pressure. Explain how dialogue and opposing viewpoints develop tension. Prepare a scene summary, character analysis and theme-based answers using only details supported by the extract.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "English Grammar and Language Skills",
+          "notes": "Build grammar from foundations: parts of speech (noun, pronoun, verb, adjective, adverb, preposition, conjunction, interjection); sentence types; subject-verb agreement; articles; tenses; modals; active and passive voice; direct and indirect speech; clauses and phrases; conjunctions; prepositions; punctuation; question tags; transformation of sentences; and common errors. Practise by identifying the rule, correcting examples and writing original sentences. A clause has a subject and a finite verb; a phrase does not form a complete clause.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        }
+      ]
+    },
+    {
+      "name": "Hindi",
+      "chapters": [
+        {
+          "title": "हिंदी गद्य: पाठ-अध्ययन की विधि",
+          "notes": "गद्य-पाठ पढ़ते समय लेखक का उद्देश्य, मुख्य विचार, घटनाक्रम, पात्र, परिवेश और भाषा-शैली पहचानें। प्रत्येक पाठ का सार अपने शब्दों में लिखें। कठिन शब्दों के अर्थ, समानार्थी और वाक्य-प्रयोग तैयार करें। उत्तर लिखते समय प्रश्न के सभी भागों का उत्तर दें और पाठ के उदाहरणों से बात स्पष्ट करें।\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "हिंदी पद्य: कविता-अध्ययन",
+          "notes": "कविता पढ़ते समय कवि, विषय, भाव, कल्पना, प्रतीक, भाषा और लय पर ध्यान दें। कविता का केंद्रीय भाव अपने शब्दों में लिखें। अलंकार और छंद की पहचान पाठ्य-पंक्तियों के आधार पर करें; बिना प्रमाण के नाम न लिखें। काव्य-सौंदर्य लिखते समय भाव-सौंदर्य, भाषा-सौंदर्य और प्रयुक्त अलंकार का प्रभाव समझाएँ।\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "अपठित गद्यांश और पद्यांश",
+          "notes": "पहले पूरे अंश को ध्यान से पढ़ें, फिर प्रश्न पढ़कर संबंधित जानकारी खोजें। उत्तर अंश के आधार पर दें, बाहरी अनुमान न जोड़ें। शीर्षक पूछे जाने पर मुख्य विचार को समेटने वाला छोटा शीर्षक दें। शब्दार्थ और भावार्थ संदर्भ के अनुसार लिखें।\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "व्याकरण: संज्ञा, सर्वनाम और विशेषण",
+          "notes": "संज्ञा किसी व्यक्ति, वस्तु, स्थान, भाव या समूह का नाम है। सर्वनाम संज्ञा के स्थान पर आता है। विशेषण संज्ञा या सर्वनाम की विशेषता बताता है। वाक्य में शब्द का कार्य देखकर उसका भेद पहचानें। उदाहरण स्वयं बनाकर अभ्यास करें और लिंग, वचन तथा कारक के अनुसार रूपों का ध्यान रखें।\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "व्याकरण: क्रिया, काल और वाच्य",
+          "notes": "क्रिया कार्य या अवस्था का बोध कराती है। काल से कार्य के समय का पता चलता है—वर्तमान, भूत और भविष्य। वाच्य से वाक्य में कर्ता, कर्म या भाव की प्रधानता स्पष्ट होती है। क्रिया का रूप कर्ता, लिंग, वचन और प्रसंग के अनुसार बदल सकता है। रूपांतरण करते समय मूल अर्थ बनाए रखें।\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "व्याकरण: वाक्य-रचना और विराम-चिह्न",
+          "notes": "वाक्य शब्दों का ऐसा समूह है जो पूर्ण अर्थ देता है। रचना के आधार पर सरल, संयुक्त और मिश्र वाक्य पहचाने जाते हैं। विराम-चिह्न अर्थ और ठहराव स्पष्ट करते हैं—पूर्ण विराम, अल्पविराम, प्रश्नवाचक और उद्धरण चिह्न आदि। वाक्य-परिवर्तन में अर्थ और व्याकरणिक शुद्धता बनाए रखें।\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "लेखन-कौशल: पत्र-लेखन",
+          "notes": "पत्र का प्रकार पहचानें—औपचारिक या अनौपचारिक। औपचारिक पत्र में प्रेषक का पता, दिनांक, प्राप्तकर्ता का पद/पता, विषय, संबोधन, मुख्य भाग, विनम्र समापन और नाम लिखें। भाषा स्पष्ट, संक्षिप्त और शिष्ट रखें। अनौपचारिक पत्र में संबंध के अनुसार आत्मीय भाषा का प्रयोग करें।\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "लेखन-कौशल: निबंध और अनुच्छेद",
+          "notes": "निबंध में भूमिका, विषय-विस्तार और निष्कर्ष रखें। प्रत्येक अनुच्छेद में एक मुख्य विचार हो। उदाहरण, कारण और परिणाम क्रम से लिखें। विषय से न भटकें, अनावश्यक दोहराव न करें और सरल, शुद्ध भाषा का प्रयोग करें। अनुच्छेद में एक ही केंद्रीय विचार को सीमित शब्दों में स्पष्ट करें।\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "लेखन-कौशल: संवाद और सूचना",
+          "notes": "संवाद में वक्ताओं के नाम और उनकी बातें क्रम से लिखें। भाषा स्वाभाविक, प्रसंगानुकूल और संक्षिप्त हो। सूचना में शीर्षक, किसके लिए, क्या, कब, कहाँ, किससे संपर्क करना है और जारीकर्ता का नाम/पद शामिल करें। तथ्य स्पष्ट रखें और अनावश्यक सजावट से बचें।\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "लेखन-कौशल: सारांश और विज्ञापन",
+          "notes": "सारांश में मूल पाठ का मुख्य विचार अपने शब्दों में संक्षेप में लिखें; उदाहरणों और गौण विवरणों को हटाएँ। विज्ञापन में आकर्षक शीर्षक, मुख्य लाभ/जानकारी, आवश्यक विवरण और संपर्क/कार्यवाही का संकेत दें। भ्रामक दावे न करें और भाषा प्रभावशाली लेकिन स्पष्ट रखें।\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        }
+      ]
+    },
+    {
+      "name": "Marathi",
+      "chapters": [
+        {
+          "title": "गद्यपाठ अभ्यासपद्धती",
+          "notes": "गद्यपाठ वाचताना लेखकाचा उद्देश, मुख्य विचार, घटना, व्यक्तिरेखा, परिसर आणि भाषाशैली समजून घ्या. प्रत्येक पाठाचा सारांश स्वतःच्या शब्दांत लिहा. कठीण शब्दांचे अर्थ, समानार्थी शब्द आणि वाक्यप्रयोग नोंदवा. उत्तर देताना प्रश्नातील सर्व मुद्दे समाविष्ट करा आणि पाठातील उदाहरणांचा आधार घ्या.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "कवितेचा अभ्यास व रसग्रहण",
+          "notes": "कवितेतील आशय, भावना, प्रतिमा, प्रतीके, लय आणि भाषासौंदर्य समजून घ्या. मध्यवर्ती कल्पना स्वतःच्या शब्दांत मांडा. अलंकार किंवा वृत्त ओळखताना कवितेतील ओळींचा आधार घ्या. रसग्रहणात शीर्षक, कवी, आशय, भावसौंदर्य, भाषासौंदर्य आणि आवडलेल्या ओळीचे कारण स्पष्ट करा.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "अपठित उतारा",
+          "notes": "उतारा प्रथम पूर्ण वाचा. नंतर प्रश्नांतील महत्त्वाचे शब्द लक्षात घेऊन संबंधित माहिती शोधा. उत्तरे उताऱ्यावर आधारित आणि नेमकी लिहा. योग्य शीर्षक देताना उताऱ्याचा मुख्य आशय लक्षात घ्या. शब्दार्थ संदर्भानुसार लिहा.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "व्याकरण: नाम, सर्वनाम व विशेषण",
+          "notes": "नाम म्हणजे व्यक्ती, वस्तू, स्थळ, भाव किंवा समूह यांचे नाव. सर्वनाम नामाऐवजी वापरले जाते. विशेषण नामाची किंवा सर्वनामाची विशेषता सांगते. वाक्यातील शब्दाचे कार्य ओळखून त्याचा प्रकार ठरवा. लिंग, वचन आणि विभक्तीनुसार योग्य रूप वापरण्याचा सराव करा.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "व्याकरण: क्रियापद व काळ",
+          "notes": "क्रियापद कृती किंवा अवस्था दर्शवते. काळामुळे कृतीचा वेळ समजतो—वर्तमान, भूत आणि भविष्य. वाक्यातील कर्ता, कर्म आणि क्रियापद यांचा संबंध समजून घ्या. काळ बदलताना वाक्याचा मूळ अर्थ कायम ठेवा आणि योग्य क्रियारूप वापरा.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "व्याकरण: वाक्यप्रकार व विरामचिन्हे",
+          "notes": "पूर्ण अर्थ व्यक्त करणाऱ्या शब्दसमूहाला वाक्य म्हणतात. विधानार्थी, प्रश्नार्थी, उद्गारार्थी आणि आज्ञार्थी वाक्यांचे प्रकार ओळखा. साधे, संयुक्त आणि मिश्र वाक्य यांची रचना समजून घ्या. पूर्णविराम, स्वल्पविराम, प्रश्नचिन्ह आणि अवतरणचिन्हे योग्य ठिकाणी वापरा.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "लेखनकौशल्य: पत्रलेखन",
+          "notes": "औपचारिक आणि अनौपचारिक पत्र यांतील फरक समजून घ्या. औपचारिक पत्रात पत्ता, दिनांक, प्राप्तकर्त्याचा पत्ता, विषय, संबोधन, मुख्य मजकूर, समारोप आणि स्वाक्षरी असते. भाषा नम्र, स्पष्ट आणि मुद्देसूद ठेवा. अनौपचारिक पत्रात नात्यानुसार आत्मीय भाषा वापरा.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "लेखनकौशल्य: निबंधलेखन",
+          "notes": "निबंधाची रचना प्रस्तावना, विषयविस्तार आणि निष्कर्ष अशी ठेवा. प्रत्येक परिच्छेदात एक मुख्य मुद्दा मांडा. कारणे, उदाहरणे आणि परिणाम यांचा क्रम ठेवा. विषयांतर, पुनरुक्ती आणि अवघड शब्दांचा अतिरेक टाळा. शुद्धलेखन आणि विरामचिन्हे तपासा.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "लेखनकौशल्य: संवाद व सूचना",
+          "notes": "संवादात वक्त्यांची नावे आणि त्यांची विधाने योग्य क्रमाने लिहा. भाषा नैसर्गिक, प्रसंगानुरूप आणि संक्षिप्त असावी. सूचनेत शीर्षक, कोणासाठी, काय, कधी, कुठे, संपर्क आणि जारी करणाऱ्याचे नाव/पद द्या. माहिती अचूक आणि स्पष्ट ठेवा.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        },
+        {
+          "title": "लेखनकौशल्य: सारांश व जाहिरात",
+          "notes": "सारांशात मूळ उताऱ्याचा मुख्य आशय स्वतःच्या शब्दांत संक्षिप्त लिहा. गौण तपशील आणि पुनरुक्ती टाळा. जाहिरातीत आकर्षक शीर्षक, उत्पादन/सेवेची माहिती, महत्त्वाचे फायदे आणि संपर्क किंवा कृतीचा तपशील द्या. दिशाभूल करणारे दावे करू नका.\n\nStudy practice: prepare a short definition list, explain the main ideas in your own words, solve or answer at least three textbook-aligned questions, and make a one-page revision sheet. Check the prescribed textbook and teacher's instructions for the exact chapter sequence, examples and assessment pattern."
+        }
+      ]
+    },
+    {
+      "name": "Physical Education (PE)",
+      "chapters": [
+        {
+          "title": "Development of Physical Fitness",
+          "notes": "Meaning: Physical fitness is the ability to perform everyday activities efficiently, without undue fatigue, while retaining energy for recreation and unexpected demands.\n\nMain components:\n• Health-related fitness: cardiorespiratory endurance, muscular strength, muscular endurance, flexibility and body composition.\n• Skill-related fitness: speed, agility, balance, coordination, power and reaction time.\n\nImportance: Regular physical activity supports heart and lung function, stronger muscles and bones, mobility, concentration, sleep and general wellbeing.\n\nWays to develop fitness: walking, running, cycling, swimming, games, mobility exercises and age-appropriate strength activities. Increase activity gradually, warm up, cool down, drink water and allow recovery.\n\nTraining principles: regularity, progression, overload in a safe and suitable amount, specificity, variety and recovery.\n\nRevision points: Fitness is multidimensional; one test cannot measure every component. Activities should suit the person's age, ability and health."
+        },
+        {
+          "title": "Obesity",
+          "notes": "Meaning: Obesity is a medical condition involving excess body fat that may affect health. It is influenced by several factors and should be discussed without stigma.\n\nContributing factors may include genetics, environment, sleep, stress, medicines, health conditions, food availability and patterns of physical activity.\n\nPossible health effects: increased risk of type 2 diabetes, high blood pressure, some heart conditions, joint problems and sleep-related difficulties. Effects vary from person to person.\n\nAssessment: Health professionals may use growth charts, BMI-for-age and other clinical information. Adult BMI cut-offs should not be applied to children and teenagers without professional interpretation.\n\nPrevention and support: regular enjoyable activity, balanced meals, adequate sleep, supportive family and school environments, and advice from qualified health professionals. Avoid crash diets, shame and body comparisons.\n\nKey idea: Focus on health, habits and wellbeing rather than appearance or a number on the weighing scale."
+        },
+        {
+          "title": "Nature and Diet",
+          "notes": "Meaning of diet: Diet is the food and drink a person regularly consumes. A balanced diet supplies energy and nutrients needed for growth, repair and normal body functions.\n\nMajor nutrients:\n• Carbohydrates: an important energy source.\n• Proteins: support growth and repair of body tissues.\n• Fats: provide energy, help absorb certain vitamins and support normal body functions.\n• Vitamins and minerals: help regulate body processes and maintain health.\n• Water: supports temperature regulation, digestion and transport of substances.\n• Fibre: supports healthy digestion.\n\nBalanced food choices: include a variety of cereals or millets, pulses, vegetables, fruits, dairy or suitable alternatives, nuts and seeds. Needs differ by age, activity and health.\n\nNature and food: local seasons, climate, agriculture and availability influence food habits. Traditional food knowledge can be considered alongside nutrition science.\n\nRemember: No single food provides every nutrient. Avoid extreme restrictions and follow qualified advice for special dietary needs."
+        },
+        {
+          "title": "Yoga and Mudra",
+          "notes": "Yoga: A traditional discipline that combines physical postures (asanas), breathing practices, concentration and relaxation. Its broader aim includes coordination of body and mind.\n\nCommon elements:\n• Asana: a posture practised with awareness and stability.\n• Pranayama: regulated breathing practices.\n• Meditation: training attention and awareness.\n• Relaxation: practices that help calm the body and mind.\n\nMudra: A symbolic or prescribed gesture, often involving the hands, used in some yoga and meditation traditions.\n\nPotential benefits: improved body awareness, flexibility, balance, relaxation and concentration when practised appropriately.\n\nSafety: learn from a qualified instructor, practise in a suitable space, do not force a posture or hold the breath uncomfortably, and stop if pain or dizziness occurs. People with health concerns should seek professional guidance."
+        },
+        {
+          "title": "Doping (Stimulants)",
+          "notes": "Meaning: Doping refers to the use of prohibited substances or methods to gain an unfair advantage in sport or to enhance performance in ways banned by anti-doping rules.\n\nWhy it is prohibited: it undermines fair competition, can endanger health and damages trust in sport.\n\nStimulants: substances that affect the central nervous system. Some are prohibited in sport because they may create unfair advantages and carry health risks.\n\nPossible risks of misuse: disturbed sleep, anxiety, raised heart rate or blood pressure, dehydration and other serious effects. Risks depend on the substance and the person.\n\nAnti-doping principles: athletes are responsible for checking applicable rules, using medicines only with appropriate medical advice, and following official therapeutic-use procedures where relevant.\n\nValues: fair play, honesty, respect, health and sportsmanship. Never experiment with performance-enhancing substances."
+        },
+        {
+          "title": "Injury Management",
+          "notes": "Sports injury: Damage or pain affecting muscles, bones, joints, ligaments or tendons during physical activity.\n\nBroad categories:\n• Acute injuries: occur suddenly during an activity.\n• Overuse injuries: develop gradually through repeated stress without enough recovery.\n\nPrevention: warm up, learn correct technique, use suitable equipment and footwear, follow rules, maintain safe playing conditions, hydrate and allow rest.\n\nImmediate response: stop the activity, protect the injured area and tell a responsible adult, coach or teacher. Do not continue playing through significant pain.\n\nFirst aid: provide only care within your training and seek qualified medical help when needed. Urgent assessment is important for severe pain, suspected fracture, head or neck injury, breathing difficulty, fainting or rapidly worsening symptoms.\n\nReturn to sport: resume only when appropriately assessed and recovered, following guidance from a healthcare professional."
+        },
+        {
+          "title": "Modern Technology - Activism",
+          "notes": "Meaning: Modern technology can encourage physical activity and support sport, fitness education and performance analysis.\n\nExamples:\n• Pedometers and activity trackers record steps and movement.\n• Heart-rate monitors provide information about exercise intensity.\n• GPS devices help analyse movement in some sports.\n• Video analysis helps coaches and players review technique.\n• Online platforms provide demonstrations and learning resources.\n\nBenefits: feedback, goal tracking, access to instruction, performance analysis and wider participation.\n\nLimitations: devices may not be perfectly accurate; data privacy, screen time, cost and over-reliance are concerns.\n\nResponsible use: treat device readings as estimates, protect personal data, balance screen use with actual movement and follow qualified coaching advice."
+        },
+        {
+          "title": "Career Opportunities in Sports",
+          "notes": "Sports offers careers both on and off the playing field.\n\nExamples:\n• Athlete or professional player.\n• Physical education teacher.\n• Coach or assistant coach.\n• Fitness trainer, after appropriate recognised training.\n• Sports administrator or event organiser.\n• Sports journalist, commentator or content professional.\n• Referee or umpire, after sport-specific certification.\n• Sports physiotherapy and sports medicine, which require relevant professional qualifications.\n• Sports photography, equipment management and facility operations.\n\nUseful qualities: discipline, communication, teamwork, leadership, subject knowledge, ethical conduct and continuous learning.\n\nCareer planning: identify interests, research recognised courses and qualifications, gain supervised experience and check eligibility requirements for each role."
+        },
+        {
+          "title": "Various Games",
+          "notes": "Games develop physical skills, cooperation, discipline and sportsmanship. The textbook introduces different games and their basic rules, equipment and playing areas.\n\nWhen studying each game, prepare:\n1. Name and objective of the game.\n2. Number of players and team roles, as prescribed.\n3. Playing area and important measurements.\n4. Equipment required.\n5. Basic rules and method of scoring.\n6. Fundamental skills and common fouls.\n7. Officials and their responsibilities.\n8. Safety precautions and sportsmanship.\n\nExamples of team games commonly studied in school physical education include volleyball, football, basketball, cricket and hockey. Use the prescribed textbook for the exact games and official measurements.\n\nRevision tip: make a comparison table for each game using the headings above."
+        },
+        {
+          "title": "Various Sports Competitions",
+          "notes": "Meaning: A sports competition is an organised event in which individuals or teams take part according to established rules to determine results or rankings.\n\nCommon formats:\n• Knockout: a participant or team is eliminated after a loss, according to the draw.\n• League: participants play a series of matches; points determine standings.\n• Combination: uses more than one format, such as league stages followed by knockout rounds.\n\nOrganisation includes registration, eligibility, fixtures, venues, officials, equipment, first aid, schedules, scoring and result records.\n\nValues: fair play, respect for officials and opponents, teamwork, discipline and acceptance of results.\n\nFor examinations, learn the formats, their features, advantages and limitations as explained in the prescribed textbook."
         }
       ]
     }
