@@ -1,0 +1,606 @@
+{
+  "subjects": [
+    {
+      "name": "English — Yuvakbharati",
+      "chapters": [
+        {
+          "title": "Being Neighborly — Louisa May Alcott",
+          "notes": "Draft study guide: Revise the plot, main characters, neighbourly kindness, helpfulness and the lesson about building good relationships. Add a detailed paragraph-wise summary, character sketches and textbook-based questions after checking the prescribed text."
+        },
+        {
+          "title": "On to the Summit: We Reach the Top — Tenzing Norgay",
+          "notes": "Draft study guide: Focus on determination, teamwork, preparation, courage and the sequence of events during the expedition. Add a detailed summary, important incidents and comprehension questions from the prescribed text."
+        },
+        {
+          "title": "The Call of the Soil — Venkat Iyer",
+          "notes": "Draft study guide: Study the writer’s connection with farming and soil, sustainable agriculture and respect for nature. Add a detailed summary, key terms, author’s viewpoint and text-based questions."
+        },
+        {
+          "title": "Pillars of Democracy — Dr. Babasaheb Ambedkar",
+          "notes": "Draft study guide: Revise democracy, equality, liberty, fraternity, justice, constitutional values and responsible citizenship. Add the author’s argument, key points and text-based questions."
+        },
+        {
+          "title": "Mrs. Adis — Sheila Kaye-Smith",
+          "notes": "Draft study guide: Prepare the plot, character sketch of Mrs. Adis, important incidents, conflict and central idea. Verify details against the textbook before writing final answers."
+        },
+        {
+          "title": "Tiger Hills — General Ved Prakash Malik",
+          "notes": "Draft study guide: Study the Kargil conflict as presented in the lesson, soldiers’ role, leadership, courage and national responsibility. Add a chronological summary and text-based questions."
+        },
+        {
+          "title": "Cherry Tree — Ruskin Bond",
+          "notes": "Poem study guide: Prepare the speaker/subject, growth and renewal, nature imagery and central idea. Poem appreciation should include title, poet, rhyme scheme, figures of speech, theme, favourite line and personal response; verify the rhyme scheme from the printed poem."
+        },
+        {
+          "title": "The Sower — Victor Hugo",
+          "notes": "Poem study guide: Focus on the sower’s hard work, hope and dignity of labour. Prepare a stanza-wise explanation and appreciation with title, poet, rhyme scheme, figures of speech and central idea."
+        },
+        {
+          "title": "There is Another Sky — Emily Dickinson",
+          "notes": "Poem study guide: Study the hopeful view of nature and the mind, imagery and contrast. Prepare stanza-wise explanation and complete poem appreciation."
+        },
+        {
+          "title": "Upon Westminster Bridge — William Wordsworth",
+          "notes": "Poem study guide: Revise the speaker’s admiration of London at dawn, calm cityscape, imagery and personification. Prepare a stanza-wise explanation and complete appreciation."
+        },
+        {
+          "title": "Nose versus Eyes — William Cowper",
+          "notes": "Poem study guide: Understand the humorous dispute, personification and message about cooperation. Revise the situation, speakers, humour and moral."
+        },
+        {
+          "title": "The Planners — Boey Kim Cheng",
+          "notes": "Poem study guide: Study urban development, loss of history and individuality, imagery, contrast and the speaker’s attitude. Prepare a complete appreciation."
+        },
+        {
+          "title": "Expansion of Ideas",
+          "notes": "Writing skill: Introduce the given thought, explain its meaning, develop it with logical points and examples, and conclude with a clear message. Maintain unity, coherence and correct grammar."
+        },
+        {
+          "title": "Blog Writing",
+          "notes": "Writing skill: Use a suitable title, engaging introduction, organised paragraphs and a conclusion. Keep the tone appropriate to the audience and proofread language and facts."
+        },
+        {
+          "title": "E-mails",
+          "notes": "Writing skill: Practise formal and informal email conventions as prescribed: recipient, subject, salutation, concise body, closing and name. Use a clear subject and polite tone."
+        },
+        {
+          "title": "Interview",
+          "notes": "Writing skill: Prepare a short introduction and relevant questions in a logical order. Use clear question-answer formatting and respectful language."
+        },
+        {
+          "title": "Film Review",
+          "notes": "Writing skill: Include film title, director, cast, genre, brief spoiler-free plot, acting, direction, music and a reasoned overall opinion."
+        },
+        {
+          "title": "The Art of Compering",
+          "notes": "Writing skill: Practise opening an event, welcoming guests, introducing programme items and speakers, linking segments, giving acknowledgements and closing."
+        },
+        {
+          "title": "History of English Drama",
+          "notes": "Drama: Revise the origin and development of English drama, major periods, playwrights and features of tragedy, comedy and other dramatic forms."
+        },
+        {
+          "title": "The Rising of the Moon — Lady Gregory",
+          "notes": "Drama: Prepare the setting, plot, characters, conflict, dramatic tension and theme. Use the prescribed text for exact events and dialogue."
+        },
+        {
+          "title": "A Midsummer Night’s Dream — William Shakespeare",
+          "notes": "Drama extract: Study the prescribed extract, characters, relationships, mistaken identities and comic elements. Restrict answers to events in the assigned extract."
+        },
+        {
+          "title": "An Enemy of the People — Henrik Johan Ibsen",
+          "notes": "Drama extract: Study the prescribed extract’s conflict between truth, public opinion and social responsibility. Revise character motives and dramatic tension."
+        },
+        {
+          "title": "English Grammar",
+          "notes": "Grammar study guide: Build from parts of speech, sentence structure, articles, prepositions and tenses to subject–verb agreement, clauses, active/passive voice, direct/indirect speech, transformations and punctuation. Add rules, examples and original practice exercises for each topic."
+        }
+      ]
+    },
+    {
+      "name": "Hindi — Yuvakbharati",
+      "chapters": [
+        {
+          "title": "प्रेरणा",
+          "notes": "अध्ययन मार्गदर्शिका: पाठ का सार, मुख्य भाव, प्रेरणा देने वाले विचार और पाठ से मिलने वाली सीख समझें। लेखक/कवि परिचय तथा पाठ्यपुस्तक-आधारित प्रश्न तैयार करें।"
+        },
+        {
+          "title": "लघुकथाएँ — उषा की दीपावली और मुस्कुराती चोट",
+          "notes": "दोनों लघुकथाओं की कथावस्तु, पात्र, घटनाक्रम और संदेश अलग-अलग समझें। तुलना करते समय दोनों कहानियों की विशेषताएँ लिखें।"
+        },
+        {
+          "title": "पंद्रह अगस्त",
+          "notes": "कविता का केंद्रीय भाव, स्वतंत्रता दिवस का महत्व और देशप्रेम की भावना समझें। कठिन शब्दों के अर्थ और भावार्थ का अभ्यास करें।"
+        },
+        {
+          "title": "मेरा भला करने वालों से बचाएँ",
+          "notes": "व्यंग्य की शैली, लेखक का दृष्टिकोण और दिखावे तथा वास्तविक भलाई के बीच अंतर समझें। सारांश और आशय-आधारित प्रश्न तैयार करें।"
+        },
+        {
+          "title": "मध्ययुगीन काव्य — भक्ति महिमा",
+          "notes": "भक्ति-भाव, ईश्वर के प्रति समर्पण और काव्य में व्यक्त जीवन-मूल्यों का भावार्थ लिखें।"
+        },
+        {
+          "title": "मध्ययुगीन काव्य — बाल लीला",
+          "notes": "कविता में बाल-स्वरूप का चित्रण, वात्सल्य भाव और काव्य-सौंदर्य समझें।"
+        },
+        {
+          "title": "कलम का सिपाही",
+          "notes": "पाठ का सार, साहित्यकार के व्यक्तित्व और लेखन के महत्व को समझें। प्रमुख घटनाएँ और पाठ का संदेश लिखें।"
+        },
+        {
+          "title": "स्वागत है!",
+          "notes": "कविता का भाव, स्वागत की भावना और मानवीय संबंधों का महत्व समझें। भावार्थ तथा शब्दार्थ का अभ्यास करें।"
+        },
+        {
+          "title": "तत्सत",
+          "notes": "कहानी के प्रतीक, कथानक, पात्र और मूल विचार समझें। पाठ से जुड़े अर्थ-आधारित प्रश्न तैयार करें।"
+        },
+        {
+          "title": "गजलें — दोस्ती और मौजूद",
+          "notes": "दोनों गजलों का भावार्थ, प्रमुख विचार, भाषा-शैली और गजल की विशेषताएँ समझें।"
+        },
+        {
+          "title": "महत्त्वाकांक्षा और लोभ",
+          "notes": "महत्त्वाकांक्षा तथा लोभ का अंतर, उनके परिणाम और लेखक का संदेश समझें। उदाहरण सहित उत्तर लिखने का अभ्यास करें।"
+        },
+        {
+          "title": "भारती का सपूत",
+          "notes": "पाठ का सार, प्रमुख व्यक्तित्व, योगदान और देश/समाज के प्रति जिम्मेदारी का भाव समझें।"
+        },
+        {
+          "title": "सहर्ष स्वीकारा है",
+          "notes": "कविता का केंद्रीय भाव, स्वीकृति, संघर्ष और जीवन-दृष्टि समझें। भावार्थ और काव्य-सौंदर्य का अभ्यास करें।"
+        },
+        {
+          "title": "नुक्कड़ नाटक — मौसम और अनमोल जिंदगी",
+          "notes": "नाटक का उद्देश्य, पात्र, संवाद, मंचन और सामाजिक संदेश समझें। दोनों नाटकों के कथानक अलग-अलग लिखें।"
+        },
+        {
+          "title": "हिंदी में उज्ज्वल भविष्य की संभावनाएँ",
+          "notes": "हिंदी भाषा के उपयोग, शिक्षा, रोजगार और संचार में संभावनाओं पर व्यवस्थित उत्तर तैयार करें।"
+        },
+        {
+          "title": "समाचार : जन से जनहित तक",
+          "notes": "समाचार का उद्देश्य, तथ्यपरकता, शीर्षक, समाचार लेखन की संरचना और जनहित का महत्व समझें।"
+        },
+        {
+          "title": "रेडियो जॉकी",
+          "notes": "रेडियो जॉकी की भूमिका, आवाज़, प्रस्तुति, श्रोताओं से संवाद और कार्यक्रम की रूपरेखा समझें।"
+        },
+        {
+          "title": "ई-अध्ययन : नई दृष्टि",
+          "notes": "डिजिटल अध्ययन के लाभ, चुनौतियाँ और जिम्मेदार उपयोग समझें। उत्तर में उदाहरण और संतुलित निष्कर्ष दें।"
+        },
+        {
+          "title": "हिंदी व्याकरण और रचना",
+          "notes": "अपठित गद्यांश/काव्यांश, शब्द-संपदा, मुहावरे, वाक्य-शुद्धि, काल, रस और अलंकार का अभ्यास करें। निबंध, पत्र, विज्ञापन, अनुवाद, संवाद और वृत्तांत के प्रारूप दोहराएँ।"
+        }
+      ]
+    },
+    {
+      "name": "Marathi — Yuvakbharati",
+      "chapters": [
+        {
+          "title": "मामू",
+          "notes": "पाठाचा आशय, व्यक्तिचित्रातील मामूंचे स्वभाववैशिष्ट्य, महत्त्वाच्या घटना आणि लेखकाचा दृष्टिकोन समजून घ्या."
+        },
+        {
+          "title": "प्राणसई",
+          "notes": "कवितेचा भावार्थ, निसर्गचित्रण, प्रतिमा आणि कवयित्रीची भावना स्पष्ट करा. रसग्रहणाचा सराव करा."
+        },
+        {
+          "title": "अशी पुस्तकं",
+          "notes": "पुस्तकांचे महत्त्व, वाचनसंस्कृती आणि लेखकाचे विचार समजून घ्या. आशय व मुख्य मुद्दे लिहा."
+        },
+        {
+          "title": "झाडांच्या मनात जाऊ",
+          "notes": "कवितेतील निसर्गप्रेम, झाडांचे महत्त्व आणि मानवी-निसर्ग संबंध यांचा भावार्थ समजून घ्या."
+        },
+        {
+          "title": "परिमळ",
+          "notes": "लेखाचा आशय, भाषाशैली आणि लेखकाने मांडलेले विचार समजून घ्या. महत्त्वाचे मुद्दे नोंदवा."
+        },
+        {
+          "title": "दवांत आलीस भल्या पहाटीं",
+          "notes": "कवितेतील निसर्गसौंदर्य, प्रतिमा, भावविश्व आणि काव्यवैशिष्ट्ये समजून घ्या."
+        },
+        {
+          "title": "‘माणूस’ बांधूया!",
+          "notes": "मानवी मूल्ये, सामाजिक ऐक्य आणि माणुसकीचा संदेश समजून घ्या. उदाहरणांसह उत्तर लिहा."
+        },
+        {
+          "title": "ऐसीं अक्षरें रसिकें",
+          "notes": "अभंग/संतकाव्यातील विचार, भक्तिभाव आणि भाषासौंदर्य यांचा अर्थ समजून घ्या."
+        },
+        {
+          "title": "वहिनींचा ‘सुसाट’ सल्ला",
+          "notes": "कथेतील विनोद, पात्रांचे स्वभाव, प्रसंग आणि लेखकाने निर्माण केलेला परिणाम समजून घ्या."
+        },
+        {
+          "title": "शब्द",
+          "notes": "कवितेतील शब्दांचे सामर्थ्य, सामाजिक आशय आणि कवीची भूमिका स्पष्ट करा."
+        },
+        {
+          "title": "वाङ्मयीन लेण्याचा शिल्पकार",
+          "notes": "व्यक्तिचित्र/चरित्रपर लेखातील व्यक्तीचे योगदान, साहित्यिक कार्य आणि लेखिकेचा दृष्टिकोन समजून घ्या."
+        },
+        {
+          "title": "पैंजण",
+          "notes": "कवितेचा आशय, प्रतिमा आणि काव्यसौंदर्य समजून घ्या."
+        },
+        {
+          "title": "हसवाफसवी",
+          "notes": "नाटकाचा कथानक, पात्रे, विनोदी प्रसंग, संवाद आणि नाट्यवैशिष्ट्ये लिहा."
+        },
+        {
+          "title": "ध्यानीमनी",
+          "notes": "नाटकातील संघर्ष, पात्रांचे विचार, प्रसंगरचना आणि शीर्षकाचे औचित्य समजून घ्या."
+        },
+        {
+          "title": "सुंदर मी होणार",
+          "notes": "नाटकाचा आशय, पात्रविकास, संवाद आणि मध्यवर्ती संदेश समजून घ्या."
+        },
+        {
+          "title": "सूत्रसंचालन",
+          "notes": "कार्यक्रमाची सुरुवात, पाहुण्यांची ओळख, कार्यक्रमाचे दुवे, आभार आणि समारोप यांचा योग्य क्रम शिका."
+        },
+        {
+          "title": "मुद्रितशोधन",
+          "notes": "मजकुरातील शुद्धलेखन, विरामचिन्हे, व्याकरण आणि मांडणीतील चुका शोधून दुरुस्त करण्याचा सराव करा."
+        },
+        {
+          "title": "अनुवाद",
+          "notes": "मूळ अर्थ, संदर्भ आणि शैली कायम ठेवून अचूक व स्वाभाविक मराठी अनुवाद करा."
+        },
+        {
+          "title": "अनुदिनी (ब्लॉग) लेखन",
+          "notes": "आकर्षक शीर्षक, प्रस्तावना, मुद्देसूद परिच्छेद आणि निष्कर्ष वापरून ब्लॉग लिहा."
+        },
+        {
+          "title": "रेडिओजॉकी",
+          "notes": "निवेदन, आवाजातील चढ-उतार, श्रोत्यांशी संवाद आणि कार्यक्रमाची रचना समजून घ्या."
+        },
+        {
+          "title": "शब्दशक्ती",
+          "notes": "शब्दांच्या अर्थछटा आणि संदर्भानुसार अर्थ समजून घ्या; पाठ्यपुस्तकातील उदाहरणे सोडवा."
+        },
+        {
+          "title": "काव्यगुण",
+          "notes": "कवितेतील आशय, माधुर्य, प्रसाद, ओज इत्यादी काव्यगुणांची ओळख उदाहरणांसह करा."
+        },
+        {
+          "title": "वाक्यसंश्लेषण",
+          "notes": "दोन किंवा अधिक वाक्ये अर्थ न बदलता योग्य रचनेने एकत्र करण्याचा सराव करा."
+        },
+        {
+          "title": "काळ",
+          "notes": "वर्तमान, भूत आणि भविष्यकाळ तसेच त्यांचे उपप्रकार उदाहरणांसह ओळखा."
+        },
+        {
+          "title": "काव्याचे रसग्रहण",
+          "notes": "कवितेचा विषय, कवी, मध्यवर्ती कल्पना, आवडलेली ओळ, भाषासौंदर्य आणि स्वतःची प्रतिक्रिया लिहा."
+        },
+        {
+          "title": "परिशिष्ट",
+          "notes": "पाठ्यपुस्तकातील परिशिष्टातील संदर्भ, शब्दसूची आणि पूरक माहिती पुनरावृत्तीसाठी वापरा."
+        }
+      ]
+    },
+    {
+      "name": "Book Keeping & Accountancy (BKA)",
+      "chapters": [
+        {
+          "title": "Introduction to Book-Keeping and Accountancy",
+          "notes": "Book-keeping is the systematic recording of financial transactions. Accountancy includes recording, classifying, summarising, analysing and interpreting financial information. Revise objectives, users and basic accounting terms."
+        },
+        {
+          "title": "Meaning and Fundamentals of Double Entry Book-Keeping",
+          "notes": "Every transaction has two aspects: debit and credit. The accounting equation is Assets = Liabilities + Capital. Revise the rules of debit and credit and the dual effect of transactions."
+        },
+        {
+          "title": "Journal",
+          "notes": "The journal is the book of original entry. Record transactions chronologically with date, accounts, debit amount, credit amount and narration. Practise personal, real and nominal account rules."
+        },
+        {
+          "title": "Ledger",
+          "notes": "A ledger contains individual accounts classified from journal entries. Learn posting, balancing accounts and preparing a trial balance from ledger balances."
+        },
+        {
+          "title": "Subsidiary Books",
+          "notes": "Subsidiary books record similar transactions separately, such as cash book, purchases book, sales book and returns books. Understand which transactions belong in each book."
+        },
+        {
+          "title": "Bank Reconciliation Statement",
+          "notes": "A Bank Reconciliation Statement explains differences between the cash book bank balance and pass book/bank statement balance. Identify timing differences, bank charges, direct deposits and errors."
+        },
+        {
+          "title": "Depreciation",
+          "notes": "Depreciation is the systematic allocation of the depreciable amount of a fixed asset over its useful life. Study causes, need and prescribed methods with worked examples."
+        },
+        {
+          "title": "Rectification of Errors",
+          "notes": "Errors may affect one or more accounts and may or may not affect the trial balance. Learn types of errors, suspense account where applicable and correcting entries."
+        },
+        {
+          "title": "Final Accounts of a Proprietary Concern",
+          "notes": "Prepare Trading Account, Profit and Loss Account and Balance Sheet. Classify items correctly and account for adjustments such as closing stock, outstanding/prepaid expenses and depreciation."
+        },
+        {
+          "title": "Single Entry System",
+          "notes": "The single entry system is an incomplete system of recording transactions. Study its features, limitations and the statement of affairs method for ascertaining profit or loss."
+        }
+      ]
+    },
+    {
+      "name": "Organisation of Commerce & Management (OCM)",
+      "chapters": [
+        {
+          "title": "Introduction of Commerce and Business",
+          "notes": "Understand human wants, economic activities, business, profession and employment. Revise characteristics, objectives and the role of commerce in connecting production and consumption."
+        },
+        {
+          "title": "Trade",
+          "notes": "Trade is the buying and selling of goods and services. Study internal and international trade, wholesale and retail trade, and auxiliaries to trade such as transport, banking, insurance and warehousing."
+        },
+        {
+          "title": "Small Scale Industry and Business",
+          "notes": "Study the meaning, characteristics, importance, opportunities and challenges of small-scale business. Understand its contribution to employment and regional development."
+        },
+        {
+          "title": "Forms of Business Organisation - I",
+          "notes": "Compare sole trading concern and partnership on ownership, capital, liability, control, continuity and suitability. Learn the key features and limitations of each form."
+        },
+        {
+          "title": "Forms of Business Organisation - II",
+          "notes": "Study joint stock companies and co-operative societies. Compare formation, ownership, liability, management, continuity and distribution of profits."
+        },
+        {
+          "title": "Institutes Supporting Business",
+          "notes": "Understand how institutions support entrepreneurs and businesses through finance, training, guidance, infrastructure and marketing assistance. Learn each institution’s role from the textbook."
+        },
+        {
+          "title": "Business Environment",
+          "notes": "Business environment includes internal and external forces affecting business decisions. Study economic, social, political, legal, technological and natural factors."
+        },
+        {
+          "title": "Introduction to Management",
+          "notes": "Management involves planning, organising, staffing, directing and controlling resources to achieve objectives efficiently and effectively. Revise levels, importance and functions of management."
+        }
+      ]
+    },
+    {
+      "name": "Secretarial Practice (SP)",
+      "chapters": [
+        {
+          "title": "Secretary",
+          "notes": "A secretary assists an organisation with communication, records, meetings and administrative coordination. Study qualities, duties, responsibilities and types of secretary."
+        },
+        {
+          "title": "Joint Stock Company",
+          "notes": "A joint stock company is an incorporated association with separate legal identity and capital divided into shares. Revise features, merits, limitations and types."
+        },
+        {
+          "title": "Formation of a Company",
+          "notes": "Study the stages of company formation: promotion, incorporation, capital subscription and commencement of business, as applicable to the prescribed company type."
+        },
+        {
+          "title": "Documents related to formation of a company",
+          "notes": "Understand the purpose and contents of the Memorandum of Association, Articles of Association, prospectus and other prescribed formation documents."
+        },
+        {
+          "title": "Members of a company",
+          "notes": "Study who can become a member, modes of membership, rights, duties and termination of membership. Distinguish a member from a shareholder where relevant."
+        },
+        {
+          "title": "Directors and Key Managerial personnel of a company",
+          "notes": "Study appointment, qualifications, powers, duties and responsibilities of directors and key managerial personnel as prescribed. Verify statutory details against the current textbook."
+        },
+        {
+          "title": "Company Meetings - I",
+          "notes": "Revise the meaning, importance, types and basic procedure of company meetings. Study notice, agenda, quorum and chairperson as prescribed."
+        },
+        {
+          "title": "Company Meetings - II",
+          "notes": "Study resolutions, minutes, voting and other meeting procedures in the textbook. Distinguish ordinary and special resolutions where applicable."
+        },
+        {
+          "title": "Business Communication Skills of Secretary",
+          "notes": "Study oral, written and non-verbal communication, listening, drafting and professional etiquette required for secretarial work."
+        },
+        {
+          "title": "Correspondence with Directors",
+          "notes": "Practise formal letters and communications addressed to directors. Follow the prescribed format, clear subject, polite tone and concise body."
+        },
+        {
+          "title": "Correspondence with Banks",
+          "notes": "Study the purpose and format of routine business correspondence with banks. Practise clear, accurate and formal drafting."
+        },
+        {
+          "title": "Correspondence with Statutory Authorities",
+          "notes": "Study formal correspondence with statutory authorities. Use accurate references, clear requests, supporting details and a professional closing."
+        }
+      ]
+    },
+    {
+      "name": "Economics",
+      "chapters": [
+        {
+          "title": "Basic Concepts in Economics",
+          "notes": "Study the meaning, scope and basic concepts of economics, including wants, utility, goods, wealth, scarcity and choice. Learn definitions and suitable examples."
+        },
+        {
+          "title": "Money",
+          "notes": "Revise the meaning, functions and types of money, evolution of money and its role in exchange and the economy."
+        },
+        {
+          "title": "Partition Values",
+          "notes": "Study partition values as statistical measures that divide an ordered data set into equal parts. Revise the textbook’s definitions, formulae and solved examples."
+        },
+        {
+          "title": "The Economy of Maharashtra",
+          "notes": "Study the structure and features of Maharashtra’s economy, major sectors, resources, development and regional differences using textbook data."
+        },
+        {
+          "title": "Rural Development in India",
+          "notes": "Understand the meaning, importance and challenges of rural development. Study agriculture, infrastructure, employment and rural development measures described in the textbook."
+        },
+        {
+          "title": "Population in India",
+          "notes": "Revise population size, distribution, density, growth, composition and demographic features. Use textbook figures with their stated reference year."
+        },
+        {
+          "title": "Unemployment in India",
+          "notes": "Study the meaning, types, causes and effects of unemployment and measures for employment generation described in the textbook."
+        },
+        {
+          "title": "Poverty in India",
+          "notes": "Understand poverty, its measurement, causes, effects and poverty-alleviation measures. Distinguish textbook definitions and indicators."
+        },
+        {
+          "title": "Economic Policy of India Since 1991",
+          "notes": "Study liberalisation, privatisation and globalisation, the reasons for reforms and their effects on the Indian economy."
+        },
+        {
+          "title": "Economic Planning in India",
+          "notes": "Revise the objectives, strategies, institutions and broad phases of economic planning in India as explained in the textbook."
+        }
+      ]
+    },
+    {
+      "name": "Information Technology (IT)",
+      "chapters": [
+        {
+          "title": "Basics of Information Technology",
+          "notes": "Study the meaning and components of IT, data and information, hardware, software, input/output devices, storage, networks and basic digital concepts."
+        },
+        {
+          "title": "Introduction to DBMS",
+          "notes": "Understand databases, DBMS functions, tables, records, fields, keys and basic database operations. Practise textbook examples and terminology."
+        },
+        {
+          "title": "Impressive Web Designing",
+          "notes": "Study the structure of web pages, HTML fundamentals, common elements, hyperlinks, images, tables and basic design principles as prescribed."
+        },
+        {
+          "title": "Cyber Law",
+          "notes": "Study the purpose of cyber law, digital rights and responsibilities, cyber offences and safe, lawful use of digital systems. Keep the notes informational and prevention-focused."
+        },
+        {
+          "title": "SOP: Daily Computing (LibreOffice)",
+          "notes": "Practical guide: Learn the prescribed office-suite tasks, document creation, formatting, spreadsheets and presentations. Follow the textbook practical steps and screenshots."
+        },
+        {
+          "title": "SOP: Web Designing (HTML-5)",
+          "notes": "Practical guide: Practise the prescribed HTML5 page structure and elements using the textbook exercises. Validate tags and page output."
+        },
+        {
+          "title": "SOP: Client Side Scripting (JavaScript)",
+          "notes": "Practical guide: Study basic client-side scripting concepts, syntax and textbook exercises. Practise simple examples in a safe local learning environment."
+        },
+        {
+          "title": "SOP: Accounting Package (GNUKhata)",
+          "notes": "Practical guide: Study the prescribed accounting-package interface and textbook tasks for recording and viewing accounting information."
+        },
+        {
+          "title": "SOP: Digital Content Creation (GIMP, Inkscape)",
+          "notes": "Practical guide: Learn the prescribed image-editing and vector-graphics concepts and complete textbook activities."
+        },
+        {
+          "title": "SOP: DBMS (PostgreSQL)",
+          "notes": "Practical guide: Study the database software and prescribed SQL/database tasks. Practise only the commands and exercises included in the course."
+        },
+        {
+          "title": "Appendix: Installation Steps and Abbreviations",
+          "notes": "Use the appendix as a reference for textbook installation guidance, terminology and abbreviations. Check software-version differences before following installation steps."
+        }
+      ]
+    },
+    {
+      "name": "Physical Education (PE)",
+      "chapters": [
+        {
+          "title": "Development of Physical Fitness",
+          "notes": "Study the components of physical fitness, their importance and safe ways of developing them. Understand the purpose of fitness assessment and regular activity."
+        },
+        {
+          "title": "Obesity",
+          "notes": "Study the meaning, contributing factors, health effects, prevention and the importance of supportive, healthy habits. Avoid stigma and body comparisons."
+        },
+        {
+          "title": "Nature and Diet",
+          "notes": "Revise balanced nutrition, food groups, hydration and the relationship between diet, activity and wellbeing. Use age-appropriate, non-restrictive health guidance."
+        },
+        {
+          "title": "Yoga and Mudra",
+          "notes": "Study the meaning, principles and general benefits of yoga and mudras. Follow qualified instruction and avoid attempting painful or unsuitable practices."
+        },
+        {
+          "title": "Doping (Stimulants)",
+          "notes": "Study the meaning of doping, fairness in sport, health risks, anti-doping principles and prevention. This chapter is informational; do not use performance-enhancing substances."
+        },
+        {
+          "title": "Injury Management",
+          "notes": "Understand common sports-injury categories, prevention, the importance of stopping activity when injured and seeking qualified medical assessment. Follow the textbook’s safety guidance."
+        },
+        {
+          "title": "Modern Technology - Activism",
+          "notes": "Study the role of modern technology in physical activity and sport, including monitoring, training support, media and responsible use. Verify the exact chapter wording in the book."
+        },
+        {
+          "title": "Career Opportunities in Sports",
+          "notes": "Explore the sports-related career areas listed in the textbook, required skills, education and professional responsibilities."
+        },
+        {
+          "title": "Various Games",
+          "notes": "Revise the games included in the textbook, their basic rules, playing areas, equipment and skills. Confirm the exact list from the textbook."
+        },
+        {
+          "title": "Various Sports Competitions",
+          "notes": "Study types and organisation of sports competitions, basic formats, roles and sporting values as described in the textbook."
+        },
+        {
+          "title": "Success Stories of Sportsmen",
+          "notes": "Use the textbook profiles to identify achievements, discipline, teamwork, resilience and lessons from sports careers."
+        },
+        {
+          "title": "Practical Work",
+          "notes": "Complete the practical activities, records and assessments prescribed by the school and textbook under teacher supervision."
+        }
+      ]
+    },
+    {
+      "name": "Environmental Education (EVS)",
+      "chapters": [
+        {
+          "title": "Environment and Sustainable Development",
+          "notes": "Study the meaning and components of environment, human-environment relationships and sustainable development. Revise principles and everyday examples."
+        },
+        {
+          "title": "Ecosystems",
+          "notes": "Understand ecosystem structure, biotic and abiotic components, food chains, food webs, energy flow and ecological balance."
+        },
+        {
+          "title": "Biodiversity",
+          "notes": "Study the meaning, levels, importance, threats and conservation of biodiversity. Distinguish in-situ and ex-situ conservation."
+        },
+        {
+          "title": "Natural Resources",
+          "notes": "Revise renewable and non-renewable resources, their uses, conservation and sustainable management."
+        },
+        {
+          "title": "Disasters",
+          "notes": "Study natural and human-made disasters, preparedness, risk reduction, response and recovery. Focus on safety and official guidance."
+        },
+        {
+          "title": "Glossary",
+          "notes": "Use the glossary to revise key environmental terms and their textbook definitions."
+        },
+        {
+          "title": "Project Guidelines and List",
+          "notes": "Follow the textbook and teacher’s instructions for selecting, researching, documenting and presenting an environmental project."
+        }
+      ]
+    }
+  ]
+}
